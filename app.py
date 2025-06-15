@@ -10,7 +10,7 @@ st.set_page_config(page_title="UPP + GenAI", layout="wide")
 st.title("📊 UPP + GenAI - Domande Libere sui Dati")
 
 # === API KEY ===
-API_KEY = "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"
+API_KEY = "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"
 os.environ["OPENAI_API_KEY"] = API_KEY
 llm = PandasAI_OpenAI(api_token=API_KEY)
 
