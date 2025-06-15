@@ -1,0 +1,615 @@
+ Semestre ; Distretto ; Tipo Ufficio ; Sede ; Numero scheda Upp ; Desc Sezione ; Modello organizzativo prevalentemente utilizzato nell'Upp ; Somma di sopravvenuti x UPP ; Somma di definiti x UPP ;n. giudici supportati dall' upp x upp/sezione; addetti per upp/sezione (stima basata su giudici supportati) ; definiti per addetto ; Regione ; Area ; CR 
+ IIsem ; Ancona ; Corte di Appello ; Ancona ; UPP 1 di 8 ; Prima Sezione Civile ; One to One ;429;595;6;7;85; Marche ; Centro ;1,39
+ IIsem ; Ancona ; Corte di Appello ; Ancona ; UPP 2 di 8 ; Prima Sezione Civile ; One to One ;71;99;1;4;25; Marche ; Centro ;1,39
+ IIsem ; Ancona ; Corte di Appello ; Ancona ; UPP 3 di 8 ; Seconda Sezione Civile ; One to One ;398;470;5;5;94; Marche ; Centro ;1,18
+ IIsem ; Ancona ; Corte di Appello ; Ancona ; UPP 4 di 8 ; Seconda Sezione Civile ; One to One ;80;94;1;4;24; Marche ; Centro ;1,18
+ IIsem ; Ancona ; Corte di Appello ; Ancona ; UPP 5 di 8 ; Sezione Lavoro Unica ; Mini Pool ;204;235;3;3;78; Marche ; Centro ;1,15
+ IIsem ; Ancona ; Tribunale ; Ancona ; UPP 1 di 9 ; Prima Sezione Civile ; Mini Pool ;697;650;5;7;93; Marche ; Centro ;0,93
+ IIsem ; Ancona ; Tribunale ; Ancona ; UPP 2 di 9 ; Prima Sezione Civile ; Mini Pool ;279;260;2; -   ; -   ; Marche ; Centro ;0,93
+ IIsem ; Ancona ; Tribunale ; Ancona ; UPP 3 di 9 ; Prima Sezione Civile ; Mini Pool ;976;910;7;5;182; Marche ; Centro ;0,93
+ IIsem ; Ancona ; Tribunale ; Ancona ; UPP 4 di 9 ; Prima Sezione Civile ; Mini Pool ;418;390;3;1;390; Marche ; Centro ;0,93
+ IIsem ; Ancona ; Tribunale ; Ancona ; UPP 5 di 9 ; Seconda Sezione Civile ; Mini Pool ;845;952;6;4;238; Marche ; Centro ;1,13
+ IIsem ; Ancona ; Tribunale ; Ancona ; UPP 6 di 9 ; Seconda Sezione Civile ; Mini Pool ;422;476;3;4;119; Marche ; Centro ;1,13
+ IIsem ; Ancona ; Tribunale ; Ascoli Piceno ; UPP 1 di 6 ; Sezione Promiscua Unica ; One to One ;707;798;3;1;578; Marche ; Centro ;1,13
+ IIsem ; Ancona ; Tribunale ; Ascoli Piceno ; UPP 2 di 6 ; Sezione Promiscua Unica ; One to One ;236;266;1;0;578; Marche ; Centro ;1,13
+ IIsem ; Ancona ; Tribunale ; Ascoli Piceno ; UPP 3 di 6 ; Sezione Promiscua Unica ; Mini Pool ;707;798;3;1;867; Marche ; Centro ;1,13
+ IIsem ; Ancona ; Tribunale ; Ascoli Piceno ; UPP 4 di 6 ; Sezione Promiscua Unica ; One to One ;236;266;1; -   ; -   ; Marche ; Centro ;1,13
+ IIsem ; Ancona ; Tribunale ; Fermo ; UPP 1 di 4 ; Sezione Civile Unica ; One to One ;2.891;3.024;6;10;302; Marche ; Centro ;1,05
+ IIsem ; Ancona ; Tribunale ; Fermo ; UPP 3 di 4 ; Sezione Civile Unica ; Rotazione ;964;1.008;2;2;504; Marche ; Centro ;1,05
+ IIsem ; Ancona ; Tribunale ; Macerata ; UPP 1 di 7 ; Sezione Civile Unica ; One to One ;1.813;1.824;4;6;304; Marche ; Centro ;1,01
+ IIsem ; Ancona ; Tribunale ; Macerata ; UPP 2 di 7 ; Sezione Civile Unica ; One to One ;1.813;1.824;4;3;608; Marche ; Centro ;1,01
+ IIsem ; Ancona ; Tribunale ; Macerata ; UPP 3 di 7 ; Sezione Civile Unica ; Assegnazione al fascicolo ;453;456;1;1;456; Marche ; Centro ;1,01
+ IIsem ; Ancona ; Tribunale ; Macerata ; UPP 4 di 7 ; Sezione Civile Unica ; Mini Pool ;453;456;1;3;152; Marche ; Centro ;1,01
+ IIsem ; Ancona ; Tribunale ; Pesaro ; UPP 1 di 2 ; Prima Sezione Civile ; Assegnazione al fascicolo ;3.144;3.262;7;6;533; Marche ; Centro ;1,04
+ IIsem ; Ancona ; Tribunale ; Pesaro ; UPP 1 di 2 ; Sezione Lavoro Unica ; Assegnazione al fascicolo ;629;538;1;1;615; Marche ; Centro ;0,86
+ IIsem ; Bari ; Corte di Appello ; Bari ; UPP 1 di 4 ; Prima Sezione Civile ; Rotazione ;501;538;6;8;70; Puglia ; Sud ;1,07
+ IIsem ; Bari ; Corte di Appello ; Bari ; UPP 1 di 4 ; Seconda Sezione Civile ; Collegio ;576;596;6;8;78; Puglia ; Sud ;1,03
+ IIsem ; Bari ; Corte di Appello ; Bari ; UPP 1 di 4 ; Terza Sezione Civile ; Rotazione ;433;369;6;8;48; Puglia ; Sud ;0,85
+ IIsem ; Bari ; Corte di Appello ; Bari ; UPP 2 di 4 ; Sezione Lavoro Unica ; One to One ;658;831;10;16;52; Puglia ; Sud ;1,26
+ IIsem ; Bari ; Tribunale ; Bari ; UPP 1 di 10 ; Prima Sezione Civile ; One to One ;582;520;1;1;390; Puglia ; Sud ;0,89
+ IIsem ; Bari ; Tribunale ; Bari ; UPP 1 di 10 ; Seconda Sezione Civile ; One to One ;174;211;1;1;158; Puglia ; Sud ;1,21
+ IIsem ; Bari ; Tribunale ; Bari ; UPP 1 di 10 ; Terza Sezione Civile ; One to One ;239;258;1;1;194; Puglia ; Sud ;1,08
+ IIsem ; Bari ; Tribunale ; Bari ; UPP 2 di 10 ; Prima Sezione Civile ; One to One ;3.493;3.120;6;14;223; Puglia ; Sud ;0,89
+ IIsem ; Bari ; Tribunale ; Bari ; UPP 3 di 10 ; Seconda Sezione Civile ; One to One ;1.568;1.898;9;14;136; Puglia ; Sud ;1,21
+ IIsem ; Bari ; Tribunale ; Bari ; UPP 4 di 10 ; Terza Sezione Civile ; One to One ;1.432;1.551;6;12;129; Puglia ; Sud ;1,08
+ IIsem ; Bari ; Tribunale ; Bari ; UPP 5 di 10 ; Quarta Sezione Civile ; One to One ;1.431;1.634;7;13;126; Puglia ; Sud ;1,14
+ IIsem ; Bari ; Tribunale ; Bari ; UPP 6 di 10 ; Sezione Civile Immigrazione ; One to One ;1.375;590;4;7;84; Puglia ; Sud ;0,43
+ IIsem ; Bari ; Tribunale ; Bari ; UPP 7 di 10 ; Sezione Lavoro Unica ; One to One ;7.170;7.863;13;14;562; Puglia ; Sud ;1,1
+ IIsem ; Bari ; Tribunale ; Foggia ; UPP 1 di 9 ; Prima Sezione Civile ; Mini Pool ;2.719;2.757;7;11;263; Puglia ; Sud ;1,01
+ IIsem ; Bari ; Tribunale ; Foggia ; UPP 1 di 9 ; Ufficio di Presidenza  ; One to One ; -   ; -   ;1;2; -   ; Puglia ; Sud ; -   
+ IIsem ; Bari ; Tribunale ; Foggia ; UPP 2 di 9 ; Seconda Sezione Civile ; One to One ;1.437;1.502;7;8;188; Puglia ; Sud ;1,05
+ IIsem ; Bari ; Tribunale ; Foggia ; UPP 3 di 9 ; Terza Sezione Civile ; Mini Pool ;414;414;6;6;69; Puglia ; Sud ;1
+ IIsem ; Bari ; Tribunale ; Foggia ; UPP 4 di 9 ; Sezione Lavoro Unica ; One to One ;5.665;6.860;10;7;980; Puglia ; Sud ;1,21
+ IIsem ; Bari ; Tribunale ; Trani ; UPP 1 di 1 ; Prima Sezione Civile ; One to One ;3.402;3.411;19;39;88; Puglia ; Sud ;1
+ IIsem ; Bari ; Tribunale ; Trani ; UPP 1 di 1 ; Sezione Lavoro Unica ; Assegnazione al fascicolo ;4.703;4.885;5;10;479; Puglia ; Sud ;1,04
+ IIsem ; Bologna ; Corte di Appello ; Bologna ; UPP 1 di 11 ; Prima Sezione Civile ; One to One ;184;198;5;4;50; Emilia-Romagna ; Nord Est ;1,08
+ IIsem ; Bologna ; Corte di Appello ; Bologna ; UPP 1 di 11 ; Sezione promiscua minorenni ; One to One ;21;61;5;2;31; Emilia-Romagna ; Nord Est ;2,88
+ IIsem ; Bologna ; Corte di Appello ; Bologna ; UPP 2 di 11 ; Seconda Sezione Civile ; One to One ;152;245;7;10;25; Emilia-Romagna ; Nord Est ;1,61
+ IIsem ; Bologna ; Corte di Appello ; Bologna ; UPP 3 di 11 ; Quarta Sezione Civile ; One to One ;20;16;5;6;3; Emilia-Romagna ; Nord Est ;0,8
+ IIsem ; Bologna ; Corte di Appello ; Bologna ; UPP 3 di 11 ; Terza Sezione Civile ; One to One ;334;346;5;6;58; Emilia-Romagna ; Nord Est ;1,04
+ IIsem ; Bologna ; Corte di Appello ; Bologna ; UPP 9 di 11 ; Prima Sezione Civile ; Assegnazione al fascicolo ;184;198;5;2;82; Emilia-Romagna ; Nord Est ;1,08
+ IIsem ; Bologna ; Corte di Appello ; Bologna ; UPP 9 di 11 ; Seconda Sezione Civile ; Assegnazione al fascicolo ;152;245;7;3;73; Emilia-Romagna ; Nord Est ;1,61
+ IIsem ; Bologna ; Corte di Appello ; Bologna ; UPP 9 di 11 ; Sezione Lavoro Unica ; Assegnazione al fascicolo ;478;369;5;2;153; Emilia-Romagna ; Nord Est ;0,77
+ IIsem ; Bologna ; Corte di Appello ; Bologna ; UPP 9 di 11 ; Sezione promiscua minorenni ; Assegnazione al fascicolo ;21;61;5;1;52; Emilia-Romagna ; Nord Est ;2,88
+ IIsem ; Bologna ; Corte di Appello ; Bologna ; UPP 9 di 11 ; Terza Sezione Civile ; Assegnazione al fascicolo ;334;346;5;2;144; Emilia-Romagna ; Nord Est ;1,04
+ IIsem ; Bologna ; Tribunale ; Bologna ; UPP 1 di 3 ; Prima Sezione Civile ; Mini Pool ;2.257;1.908;7;9;202; Emilia-Romagna ; Nord Est ;0,85
+ IIsem ; Bologna ; Tribunale ; Bologna ; UPP 1 di 3 ; Quarta Sezione Civile ; Rotazione ;255;248;4;5;46; Emilia-Romagna ; Nord Est ;0,97
+ IIsem ; Bologna ; Tribunale ; Bologna ; UPP 1 di 3 ; Seconda Sezione Civile ; Rotazione ;1.494;1.544;6;8;191; Emilia-Romagna ; Nord Est ;1,03
+ IIsem ; Bologna ; Tribunale ; Bologna ; UPP 1 di 3 ; Sezione Civile Immigrazione ; Mini Pool ;4.744;1.811;8;11;168; Emilia-Romagna ; Nord Est ;0,38
+ IIsem ; Bologna ; Tribunale ; Bologna ; UPP 1 di 3 ; Sezione Lavoro Unica ; Mini Pool ;1.547;2.048;5;7;303; Emilia-Romagna ; Nord Est ;1,32
+ IIsem ; Bologna ; Tribunale ; Bologna ; UPP 1 di 3 ; Terza Sezione Civile ; Rotazione ;720;672;5;7;100; Emilia-Romagna ; Nord Est ;0,93
+ IIsem ; Bologna ; Tribunale ; Bologna ; UPP 1 di 3 ; Tribunale delle Imprese ; Mini Pool ;195;159;3;4;39; Emilia-Romagna ; Nord Est ;0,82
+ IIsem ; Bologna ; Tribunale ; Bologna ; UPP 1 di 3 ; Volontaria Giurisdizione ; Mini Pool ;5.779;5.840;2;3;2.163; Emilia-Romagna ; Nord Est ;1,01
+ IIsem ; Bologna ; Tribunale ; Ferrara ; UPP 1 di 6 ; Sezione Civile Unica ; Mini Pool ;1.277;1.337;4;4;334; Emilia-Romagna ; Nord Est ;1,05
+ IIsem ; Bologna ; Tribunale ; Ferrara ; UPP 2 di 6 ; Sezione Civile Unica ; One to One ;638;668;2;1;668; Emilia-Romagna ; Nord Est ;1,05
+ IIsem ; Bologna ; Tribunale ; Ferrara ; UPP 3 di 6 ; Sezione Civile Unica ; Mini Pool ;638;668;2;2;334; Emilia-Romagna ; Nord Est ;1,05
+ IIsem ; Bologna ; Tribunale ; Ferrara ; UPP 4 di 6 ; Sezione Civile Unica ; One to One ;319;334;1;1;334; Emilia-Romagna ; Nord Est ;1,05
+ IIsem ; Bologna ; Tribunale ; Forli ; UPP 1 di 6 ; Sezione Civile Unica ; Rotazione ;573;563;2;2;281; Emilia-Romagna ; Nord Est ;0,98
+ IIsem ; Bologna ; Tribunale ; Forli ; UPP 2 di 6 ; Sezione Civile Unica ; Assegnazione al fascicolo ;859;844;3;3;281; Emilia-Romagna ; Nord Est ;0,98
+ IIsem ; Bologna ; Tribunale ; Forli ; UPP 3 di 6 ; Sezione Civile Unica ; One to One ;859;844;3;3;281; Emilia-Romagna ; Nord Est ;0,98
+ IIsem ; Bologna ; Tribunale ; Forli ; UPP 4 di 6 ; Sezione Lavoro Unica ; Mini Pool ;426;412;2;2;206; Emilia-Romagna ; Nord Est ;0,97
+ IIsem ; Bologna ; Tribunale ; Forli ; UPP 5 di 6 ; Sezione Civile Unica ; Assegnazione al fascicolo ;573;563;2; -   ; -   ; Emilia-Romagna ; Nord Est ;0,98
+ IIsem ; Bologna ; Tribunale ; Modena ; UPP 1 di 6 ; Prima Sezione Civile ; Mini Pool ;413;563;5;5;113; Emilia-Romagna ; Nord Est ;1,36
+ IIsem ; Bologna ; Tribunale ; Modena ; UPP 2 di 6 ; Seconda Sezione Civile ; Mini Pool ;2.379;2.553;6;7;365; Emilia-Romagna ; Nord Est ;1,07
+ IIsem ; Bologna ; Tribunale ; Modena ; UPP 3 di 6 ; Terza Sezione Civile ; Mini Pool ;1.003;858;7;6;143; Emilia-Romagna ; Nord Est ;0,86
+ IIsem ; Bologna ; Tribunale ; Parma ; UPP 2 di 5 ; Prima Sezione Civile ; One to One ;2.340;2.460;7;8;308; Emilia-Romagna ; Nord Est ;1,05
+ IIsem ; Bologna ; Tribunale ; Parma ; UPP 3 di 5 ; Seconda Sezione Civile ; One to One ;1.044;1.126;7;6;188; Emilia-Romagna ; Nord Est ;1,08
+ IIsem ; Bologna ; Tribunale ; Piacenza ; UPP 1 di 1 ; Sezione Civile Unica ; One to One ;3.216;3.169;6;27;117; Emilia-Romagna ; Nord Est ;0,99
+ IIsem ; Bologna ; Tribunale ; Ravenna ; UPP 1 di 4 ; Sezione Civile Unica ; Rotazione ;1.146;1.208;3;2;604; Emilia-Romagna ; Nord Est ;1,05
+ IIsem ; Bologna ; Tribunale ; Ravenna ; UPP 2 di 4 ; Sezione Civile Unica ; Rotazione ;2.673;2.820;7;5;564; Emilia-Romagna ; Nord Est ;1,05
+ IIsem ; Bologna ; Tribunale ; Ravenna ; UPP 3 di 4 ; Sezione Lavoro Unica ; Assegnazione al fascicolo ;548;540;1; -   ; -   ; Emilia-Romagna ; Nord Est ;0,99
+ IIsem ; Bologna ; Tribunale ; Reggio Emilia ; UPP 3 di 5 ; Sezione Lavoro Unica ; One to One ;638;685;2;2;343; Emilia-Romagna ; Nord Est ;1,07
+ IIsem ; Bologna ; Tribunale ; Reggio Emilia ; UPP 4 di 5 ; Prima Sezione Civile ; One to One ;4.699;4.708;7;8;589; Emilia-Romagna ; Nord Est ;1
+ IIsem ; Bologna ; Tribunale ; Reggio Emilia ; UPP 5 di 5 ; Seconda Sezione Civile ; One to One ;323;368;5;5;74; Emilia-Romagna ; Nord Est ;1,14
+ IIsem ; Bologna ; Tribunale ; Rimini ; UPP 1 di 6 ; Sezione Civile Unica ; One to One ;1.769;1.746;3;10;175; Emilia-Romagna ; Nord Est ;0,99
+ IIsem ; Bologna ; Tribunale ; Rimini ; UPP 2 di 6 ; Sezione Civile Unica ; One to One ;1.179;1.164;2;3;388; Emilia-Romagna ; Nord Est ;0,99
+ IIsem ; Bologna ; Tribunale ; Rimini ; UPP 3 di 6 ; Sezione Civile Unica ; One to One ;590;582;1;1;582; Emilia-Romagna ; Nord Est ;0,99
+ IIsem ; Bolzano ; Corte di Appello ; BOLZANO ; UPP 1 di 1 ; Sezione Unica Promiscua ; One to One ;146;163;5; -   ; -   ; Trentino-Alto Adige ; Nord Est ;1,12
+ IIsem ; Bolzano ; Tribunale ; Bolzano ; UPP 1 di 2 ; Seconda Sezione Civile ; Mini Pool ;1.768;1.782;11;1;1.782; Trentino-Alto Adige ; Nord Est ;1,01
+ IIsem ; Brescia ; Corte di Appello ; Brescia ; UPP 3 di 7 ; Prima Sezione Civile ; One to One ;234;254;5;9;28; Lombardia ; Nord Ovest ;1,09
+ IIsem ; Brescia ; Corte di Appello ; Brescia ; UPP 4 di 7 ; Seconda Sezione Civile ; Rotazione ;218;301;5;7;43; Lombardia ; Nord Ovest ;1,38
+ IIsem ; Brescia ; Corte di Appello ; Brescia ; UPP 6 di 7 ; Sezione Lavoro Unica ; One to One ;219;150;4;1;150; Lombardia ; Nord Ovest ;0,68
+ IIsem ; Brescia ; Tribunale ; Bergamo ; UPP 1 di 7 ; Prima Sezione Civile ; One to One ;1.419;1.058;6;5;212; Lombardia ; Nord Ovest ;0,75
+ IIsem ; Brescia ; Tribunale ; Bergamo ; UPP 2 di 7 ; Seconda Sezione Civile ; Mini Pool ;117;118;5;2;59; Lombardia ; Nord Ovest ;1,01
+ IIsem ; Brescia ; Tribunale ; Bergamo ; UPP 3 di 7 ; Terza Sezione Civile ; One to One ;824;882;6;3;294; Lombardia ; Nord Ovest ;1,07
+ IIsem ; Brescia ; Tribunale ; Bergamo ; UPP 4 di 7 ; Quarta Sezione Civile ; One to One ;409;362;3;4;91; Lombardia ; Nord Ovest ;0,89
+ IIsem ; Brescia ; Tribunale ; Brescia ; UPP 10 di 14 ; Sezione Lavoro Unica ; One to One ;1.357;1.563;5;5;313; Lombardia ; Nord Ovest ;1,15
+ IIsem ; Brescia ; Tribunale ; Brescia ; UPP 11 di 14 ; Sezione Civile Immigrazione ; Mini Pool ;4.986;1.917;5;10;192; Lombardia ; Nord Ovest ;0,38
+ IIsem ; Brescia ; Tribunale ; Brescia ; UPP 5 di 14 ; Prima Sezione Civile ; One to One ;1.070;1.141;4;5;228; Lombardia ; Nord Ovest ;1,07
+ IIsem ; Brescia ; Tribunale ; Brescia ; UPP 6 di 14 ; Seconda Sezione Civile ; One to One ;479;516;6;5;103; Lombardia ; Nord Ovest ;1,08
+ IIsem ; Brescia ; Tribunale ; Brescia ; UPP 7 di 14 ; Terza Sezione Civile ; One to One ;2.019;2.420;7;11;220; Lombardia ; Nord Ovest ;1,2
+ IIsem ; Brescia ; Tribunale ; Brescia ; UPP 8 di 14 ; Quarta Sezione Civile ; One to One ;296;268;4;6;45; Lombardia ; Nord Ovest ;0,91
+ IIsem ; Brescia ; Tribunale ; Brescia ; UPP 9 di 14 ; Tribunale delle Imprese ; One to One ;318;373;4;5;75; Lombardia ; Nord Ovest ;1,17
+ IIsem ; Brescia ; Tribunale ; Cremona ; UPP 2 di 4 ; Sezione Civile Unica ; Assegnazione al fascicolo ;851;861;2;3;287; Lombardia ; Nord Ovest ;1,01
+ IIsem ; Brescia ; Tribunale ; Cremona ; UPP 3 di 4 ; Sezione Civile Unica ; Assegnazione al fascicolo ;851;861;2; -   ; -   ; Lombardia ; Nord Ovest ;1,01
+ IIsem ; Brescia ; Tribunale ; Cremona ; UPP 4 di 4 ; Sezione Civile Unica ; Rotazione ;1.277;1.292;3; -   ; -   ; Lombardia ; Nord Ovest ;1,01
+ IIsem ; Brescia ; Tribunale ; Mantova ; UPP 1 di 4 ; Prima Sezione Civile ; One to One ;4.217;4.134;10;8;517; Lombardia ; Nord Ovest ;0,98
+ IIsem ; Brescia ; Tribunale ; Mantova ; UPP 2 di 4 ; Prima Sezione Civile ; One to One ;843;827;2;4;207; Lombardia ; Nord Ovest ;0,98
+ IIsem ; Cagliari ; Corte di Appello ; Cagliari ; UPP 5 di 5 ; Sezione Civile Agraria ; One to One ;1; -   ;3;3; -   ; Sardegna ; Isole ; -   
+ IIsem ; Cagliari ; Corte di Appello ; Cagliari ; UPP 5 di 5 ; Sezione Civile Unica ; One to One ;506;544;10;11;48; Sardegna ; Isole ;1,08
+ IIsem ; Cagliari ; Corte di Appello ; Cagliari ; UPP 5 di 5 ; Tribunale delle Acque Pubbliche ; One to One ; -   ; -   ;3;3; -   ; Sardegna ; Isole ; -   
+ IIsem ; Cagliari ; Tribunale ; Cagliari ; UPP 1 di 8 ; Prima Sezione Civile ; One to One ;1.415;1.443;5;19;76; Sardegna ; Isole ;1,02
+ IIsem ; Cagliari ; Tribunale ; Cagliari ; UPP 2 di 8 ; Sezione Lavoro Unica ; One to One ;2.280;2.042;7;7;292; Sardegna ; Isole ;0,9
+ IIsem ; Cagliari ; Tribunale ; Cagliari ; UPP 3 di 8 ; Seconda Sezione Civile ; Mini Pool ;1.489;1.347;10;18;76; Sardegna ; Isole ;0,9
+ IIsem ; Cagliari ; Tribunale ; Cagliari ; UPP 3 di 8 ; Sezione Civile Agraria ; Mini Pool ;5;4;3;5;1; Sardegna ; Isole ;0,8
+ IIsem ; Cagliari ; Tribunale ; Cagliari ; UPP 4 di 8 ; Sezione Civile Immigrazione ; Mini Pool ;1.063;515;3;7;74; Sardegna ; Isole ;0,48
+ IIsem ; Cagliari ; Tribunale ; Cagliari ; UPP 5 di 8 ; Esecuzioni immobiliari ; One to One ; -   ; -   ;2;2; -   ; Sardegna ; Isole ; -   
+ IIsem ; Cagliari ; Tribunale ; Cagliari ; UPP 5 di 8 ; Sez. Fallimentare ; One to One ; -   ; -   ;2;2; -   ; Sardegna ; Isole ; -   
+ IIsem ; Cagliari ; Tribunale ; Cagliari ; UPP 5 di 8 ; Tribunale delle Imprese ; One to One ;25;24;5;6;4; Sardegna ; Isole ;0,96
+ IIsem ; Cagliari ; Tribunale ; Oristano ; UPP 1 di 2 ; Sezione Civile Unica ; Mini Pool ;894;767;7;7;110; Sardegna ; Isole ;0,86
+ IIsem ; Caltanissetta ; Corte di Appello ; Caltanissetta ; UPP 1 di 2 ; Sezione Civile Unica ; One to One ;364;433;5;9;49; Sicilia ; Isole ;1,19
+ IIsem ; Caltanissetta ; Corte di Appello ; Caltanissetta ; UPP 1 di 2 ; Sezione promiscua minorenni ; Assegnazione al fascicolo ;4;3;4;4;1; Sicilia ; Isole ;0,75
+ IIsem ; Caltanissetta ; Tribunale ; Caltanissetta ; UPP 1 di 6 ; Sezione Civile Unica ; One to One ;1.671;1.483;12;19;78; Sicilia ; Isole ;0,89
+ IIsem ; Caltanissetta ; Tribunale ; Caltanissetta ; UPP 2 di 6 ; Sezione Civile Immigrazione ; One to One ;738;385;2;2;193; Sicilia ; Isole ;0,52
+ IIsem ; Caltanissetta ; Tribunale ; Enna ; UPP 1 di 1 ; Sezione Civile Unica ; One to One ;2.722;2.720;5;32;85; Sicilia ; Isole ;1
+ IIsem ; Caltanissetta ; Tribunale ; Gela ; UPP 1 di 5 ; Sezione Civile Unica ; Rotazione ;353;342;2;4;86; Sicilia ; Isole ;0,97
+ IIsem ; Caltanissetta ; Tribunale ; Gela ; UPP 2 di 5 ; Sezione Civile Unica ; Mini Pool ;353;342;2;2;171; Sicilia ; Isole ;0,97
+ IIsem ; Caltanissetta ; Tribunale ; Gela ; UPP 3 di 5 ; Sezione Civile Unica ; Mini Pool ;353;342;2;2;171; Sicilia ; Isole ;0,97
+ IIsem ; Caltanissetta ; Tribunale ; Gela ; UPP 4 di 5 ; Sezione Civile Unica ; Mini Pool ;353;342;2;2;171; Sicilia ; Isole ;0,97
+ IIsem ; Campobasso ; Tribunale ; Campobasso ; UPP 1 di 2 ; Sezione Civile Unica ; One to One ;1.874;1.722;6;8;215; Molise ; Sud ;0,92
+ IIsem ; Catania ; Corte di Appello ; Catania ; UPP 2 di 9 ; Prima Sezione Civile ; Rotazione ;700;755;7;4;189; Sicilia ; Isole ;1,08
+ IIsem ; Catania ; Corte di Appello ; Catania ; UPP 3 di 9 ; Seconda Sezione Civile ; Rotazione ;493;335;6;4;84; Sicilia ; Isole ;0,68
+ IIsem ; Catania ; Corte di Appello ; Catania ; UPP 4 di 9 ; Sezione Lavoro Unica ; One to One ;475;663;6;10;66; Sicilia ; Isole ;1,4
+ IIsem ; Catania ; Tribunale ; Catania ; UPP 1 di 13 ; Prima Sezione Civile ; Rotazione ;2.790;2.645;8;8;331; Sicilia ; Isole ;0,95
+ IIsem ; Catania ; Tribunale ; Catania ; UPP 13 di 13 ; Prima Sezione Civile ; One to One ;349;331;1;18;18; Sicilia ; Isole ;0,95
+ IIsem ; Catania ; Tribunale ; Catania ; UPP 2 di 13 ; Prima Sezione Civile ; Rotazione ;1.744;1.653;5;9;184; Sicilia ; Isole ;0,95
+ IIsem ; Catania ; Tribunale ; Catania ; UPP 3 di 13 ; Sezione Lavoro Unica ; Rotazione ;6.036;5.845;14;14;418; Sicilia ; Isole ;0,97
+ IIsem ; Catania ; Tribunale ; Catania ; UPP 4 di 13 ; Terza Sezione Civile ; Rotazione ;633;925;6;11;84; Sicilia ; Isole ;1,46
+ IIsem ; Catania ; Tribunale ; Catania ; UPP 5 di 13 ; Quarta Sezione Civile ; One to One ;2.054;2.067;4;8;276; Sicilia ; Isole ;1,01
+ IIsem ; Catania ; Tribunale ; Catania ; UPP 5 di 13 ; Tribunale delle Imprese ; Mini Pool ;91;92;4;8;12; Sicilia ; Isole ;1,01
+ IIsem ; Catania ; Tribunale ; Catania ; UPP 6 di 13 ; Quinta Sezione Civile ; One to One ;1.151;1.582;7;11;144; Sicilia ; Isole ;1,37
+ IIsem ; Catania ; Tribunale ; Catania ; UPP 7 di 13 ; Sesta Sezione Civile ; Assegnazione al fascicolo ;97;122;16;4;31; Sicilia ; Isole ;1,26
+ IIsem ; Catania ; Tribunale ; Ragusa ; UPP 1 di 7 ; Sezione Civile Unica ; Assegnazione al fascicolo ;1.282;1.299;11;6;216; Sicilia ; Isole ;1,01
+ IIsem ; Catania ; Tribunale ; Ragusa ; UPP 2 di 7 ; Sezione Civile Unica ; Assegnazione al fascicolo ;933;945;8;6;157; Sicilia ; Isole ;1,01
+ IIsem ; Catania ; Tribunale ; Ragusa ; UPP 3 di 7 ; Sezione Civile Unica ; Assegnazione al fascicolo ;1.166;1.181;10;13;91; Sicilia ; Isole ;1,01
+ IIsem ; Catania ; Tribunale ; Ragusa ; UPP 4 di 7 ; Sezione Civile Unica ; Mini Pool ;466;472;4;6;79; Sicilia ; Isole ;1,01
+ IIsem ; Catania ; Tribunale ; Ragusa ; UPP 5 di 7 ; Sezione Civile Unica ; Assegnazione al fascicolo ;700;708;6;3;236; Sicilia ; Isole ;1,01
+ IIsem ; Catania ; Tribunale ; Siracusa ; UPP 1 di 5 ; Prima Sezione Civile ; One to One ;1.759;1.325;6;8;166; Sicilia ; Isole ;0,75
+ IIsem ; Catania ; Tribunale ; Siracusa ; UPP 2 di 5 ; Seconda Sezione Civile ; One to One ;1.578;2.012;7;11;185; Sicilia ; Isole ;1,28
+ IIsem ; Catania ; Tribunale ; Siracusa ; UPP 2 di 5 ; Sezione esecuzioni ; One to One ; -   ; -   ;2;3; -   ; Sicilia ; Isole ; -   
+ IIsem ; Catania ; Tribunale ; Siracusa ; UPP 3 di 5 ; Prima Sezione Civile ; One to One ;1.172;883;4;7;126; Sicilia ; Isole ;0,75
+ IIsem ; Catanzaro ; Corte di Appello ; Catanzaro ; UPP 1 di 8 ; Prima Sezione Civile ; One to One ;704;398;6;14;28; Calabria ; Sud ;0,57
+ IIsem ; Catanzaro ; Corte di Appello ; Catanzaro ; UPP 2 di 8 ; Seconda Sezione Civile ; One to One ;781;573;4;10;57; Calabria ; Sud ;0,73
+ IIsem ; Catanzaro ; Corte di Appello ; Catanzaro ; UPP 3 di 8 ; Sezione Lavoro Unica ; One to One ;573;646;6;7;92; Calabria ; Sud ;1,13
+ IIsem ; Catanzaro ; Tribunale ; Castrovillari ; UPP 2 di 3 ; Sezione Civile Unica ; Mini Pool ;5.546;5.436;18;29;187; Calabria ; Sud ;0,98
+ IIsem ; Catanzaro ; Tribunale ; Catanzaro ; UPP 1 di 4 ; Prima Sezione Civile ; One to One ;5.228;2.924;16;27;108; Calabria ; Sud ;0,56
+ IIsem ; Catanzaro ; Tribunale ; Catanzaro ; UPP 2 di 4 ; Seconda Sezione Civile ; One to One ;901;1.137;6;14;81; Calabria ; Sud ;1,26
+ IIsem ; Catanzaro ; Tribunale ; Cosenza ; UPP 1 di 1 ; Prima Sezione Civile ; One to One ;809;874;10;22;40; Calabria ; Sud ;1,08
+ IIsem ; Catanzaro ; Tribunale ; Cosenza ; UPP 1 di 1 ; Seconda Sezione Civile ; One to One ;821;913;8;17;52; Calabria ; Sud ;1,11
+ IIsem ; Catanzaro ; Tribunale ; Cosenza ; UPP 1 di 1 ; Sezione Lavoro Unica ; One to One ;2.686;2.713;5;11;250; Calabria ; Sud ;1,01
+ IIsem ; Catanzaro ; Tribunale ; Crotone ; UPP 1 di 5 ; Sezione Civile Unica ; One to One ;636;578;3;3;193; Calabria ; Sud ;0,91
+ IIsem ; Catanzaro ; Tribunale ; Crotone ; UPP 2 di 5 ; Sezione Civile Unica ; One to One ;636;578;3;5;116; Calabria ; Sud ;0,91
+ IIsem ; Catanzaro ; Tribunale ; Crotone ; UPP 3 di 5 ; Sezione Civile Unica ; One to One ;1.272;1.157;6;10;116; Calabria ; Sud ;0,91
+ IIsem ; Catanzaro ; Tribunale ; Lamezia Terme ; UPP 2 di 3 ; Sezione Civile Unica ; One to One ;1.744;2.007;6;15;134; Calabria ; Sud ;1,15
+ IIsem ; Catanzaro ; Tribunale ; Lamezia Terme ; UPP 3 di 3 ; RUOLI SPECIALISTICI:LAVORO E PREVIDENZA-ESECUZIONE E FALLIMENTI-VOLONTARIA GIURISDIZIONE ; One to One ; -   ; -   ;2;3; -   ; Calabria ; Sud ; -   
+ IIsem ; Catanzaro ; Tribunale ; Lamezia Terme ; UPP 3 di 3 ; Sezione Civile Unica ; One to One ;291;334;1;1;251; Calabria ; Sud ;1,15
+ IIsem ; Catanzaro ; Tribunale ; Paola ; UPP 1 di 8 ; Sezione Civile Unica ; Mini Pool ;182;211;2;2;105; Calabria ; Sud ;1,16
+ IIsem ; Catanzaro ; Tribunale ; Paola ; UPP 2 di 8 ; Sezione Civile Unica ; Mini Pool ;636;738;7;16;46; Calabria ; Sud ;1,16
+ IIsem ; Catanzaro ; Tribunale ; Paola ; UPP 3 di 8 ; Sezione Civile Unica ; Mini Pool ;182;211;2; -   ; -   ; Calabria ; Sud ;1,16
+ IIsem ; Catanzaro ; Tribunale ; Paola ; UPP 4 di 8 ; Sezione Civile Unica ; Mini Pool ;454;527;5; -   ; -   ; Calabria ; Sud ;1,16
+ IIsem ; Catanzaro ; Tribunale ; Paola ; UPP 5 di 8 ; Sezione Civile Unica ; Mini Pool ;272;316;3; -   ; -   ; Calabria ; Sud ;1,16
+ IIsem ; Catanzaro ; Tribunale ; Vibo Valentia ; UPP 1 di 1 ; Sezione Civile Unica ; One to One ;2.389;2.174;10;39;56; Calabria ; Sud ;0,91
+ IIsem ; Firenze ; Corte di Appello ; Firenze ; UPP 1 di 1 ; Prima Sezione Civile ; Mini Pool ;418;411;7;18;23; Toscana ; Centro ;0,98
+ IIsem ; Firenze ; Corte di Appello ; Firenze ; UPP 1 di 1 ; Quarta Sezione Civile ; Mini Pool ;258;243;5;13;19; Toscana ; Centro ;0,94
+ IIsem ; Firenze ; Corte di Appello ; Firenze ; UPP 1 di 1 ; Seconda Sezione Civile ; Mini Pool ;279;360;5;13;28; Toscana ; Centro ;1,29
+ IIsem ; Firenze ; Corte di Appello ; Firenze ; UPP 1 di 1 ; Sezione Lavoro Unica ; Mini Pool ;465;385;6;15;25; Toscana ; Centro ;0,83
+ IIsem ; Firenze ; Corte di Appello ; Firenze ; UPP 1 di 1 ; Terza Sezione Civile ; Mini Pool ;343;317;3;8;41; Toscana ; Centro ;0,92
+ IIsem ; Firenze ; Corte di Appello ; Firenze ; UPP 1 di 1 ; Tribunale delle Acque Pubbliche ; Mini Pool ;14;13;5;13;1; Toscana ; Centro ;0,93
+ IIsem ; Firenze ; Tribunale ; Arezzo ; UPP 1 di 8 ; Sezione Civile Unica ; One to One ;367;385;3;5;77; Toscana ; Centro ;1,05
+ IIsem ; Firenze ; Tribunale ; Arezzo ; UPP 2 di 8 ; Sezione Civile Unica ; Mini Pool ;490;513;4;6;85; Toscana ; Centro ;1,05
+ IIsem ; Firenze ; Tribunale ; Arezzo ; UPP 3 di 8 ; Sezione Civile Unica ; One to One ;245;256;2;2;128; Toscana ; Centro ;1,05
+ IIsem ; Firenze ; Tribunale ; Arezzo ; UPP 4 di 8 ; Sezione Civile Unica ; One to One ;122;128;1;1;128; Toscana ; Centro ;1,05
+ IIsem ; Firenze ; Tribunale ; Arezzo ; UPP 7 di 8 ; Sezione Civile Unica ; Mini Pool ;1.347;1.411;11;5;282; Toscana ; Centro ;1,05
+ IIsem ; Firenze ; Tribunale ; Arezzo ; UPP 8 di 8 ; Sezione Civile Unica ; Mini Pool ;980;1.026;8;14;73; Toscana ; Centro ;1,05
+ IIsem ; Firenze ; Tribunale ; Firenze ; UPP 1 di 12 ; Sezione Lavoro Unica ; Mini Pool ;1.961;1.891;5;5;378; Toscana ; Centro ;0,96
+ IIsem ; Firenze ; Tribunale ; Firenze ; UPP 2 di 12 ; Prima Sezione Civile ; Mini Pool ;540;532;9;3;177; Toscana ; Centro ;0,99
+ IIsem ; Firenze ; Tribunale ; Firenze ; UPP 3 di 12 ; Seconda Sezione Civile ; Rotazione ;1.137;1.342;7;3;447; Toscana ; Centro ;1,18
+ IIsem ; Firenze ; Tribunale ; Firenze ; UPP 4 di 12 ; Terza Sezione Civile ; One to One ;919;1.330;10;18;74; Toscana ; Centro ;1,45
+ IIsem ; Firenze ; Tribunale ; Firenze ; UPP 5 di 12 ; Sezione Civile Immigrazione ; Mini Pool ;2.833;1.356;6;17;80; Toscana ; Centro ;0,48
+ IIsem ; Firenze ; Tribunale ; Firenze ; UPP 6 di 12 ; Tribunale delle Imprese ; Rotazione ;178;274;5;3;91; Toscana ; Centro ;1,54
+ IIsem ; Firenze ; Tribunale ; Livorno ; UPP 1 di 8 ; Prima Sezione Civile ; Mini Pool ;2.530;2.510;8;4;628; Toscana ; Centro ;0,99
+ IIsem ; Firenze ; Tribunale ; Livorno ; UPP 2 di 8 ; Prima Sezione Civile ; Mini Pool ;633;628;2;3;209; Toscana ; Centro ;0,99
+ IIsem ; Firenze ; Tribunale ; Livorno ; UPP 3 di 8 ; Prima Sezione Civile ; Mini Pool ;633;628;2;4;157; Toscana ; Centro ;0,99
+ IIsem ; Firenze ; Tribunale ; Livorno ; UPP 4 di 8 ; Sezione Lavoro Unica ; Assegnazione al fascicolo ;703;663;2;1;663; Toscana ; Centro ;0,94
+ IIsem ; Firenze ; Tribunale ; Lucca ; UPP 1 di 8 ; Sezione Civile Unica ; Mini Pool ;2.430;2.413;10;10;241; Toscana ; Centro ;0,99
+ IIsem ; Firenze ; Tribunale ; Lucca ; UPP 2 di 8 ; Sezione Civile Unica ; One to One ;243;241;1;1;241; Toscana ; Centro ;0,99
+ IIsem ; Firenze ; Tribunale ; Lucca ; UPP 5 di 8 ; Sezione Civile Unica ; Assegnazione al fascicolo ;1.458;1.448;6;2;724; Toscana ; Centro ;0,99
+ IIsem ; Firenze ; Tribunale ; Lucca ; UPP 6 di 8 ; Sezione Civile Unica ; Assegnazione al fascicolo ;486;483;2;1;483; Toscana ; Centro ;0,99
+ IIsem ; Firenze ; Tribunale ; Lucca ; UPP 7 di 8 ; Sezione Civile Unica ; One to One ;243;241;1;1;241; Toscana ; Centro ;0,99
+ IIsem ; Firenze ; Tribunale ; Lucca ; UPP 8 di 8 ; Sezione Civile Unica ; One to One ;243;241;1;1;241; Toscana ; Centro ;0,99
+ IIsem ; Firenze ; Tribunale ; Pisa ; UPP 2 di 8 ; Prima Sezione Civile ; One to One ;1.344;1.566;12;18;87; Toscana ; Centro ;1,17
+ IIsem ; Firenze ; Tribunale ; Pisa ; UPP 3 di 8 ; Seconda Sezione Civile ; One to One ; -   ; -   ;7;14; -   ; Toscana ; Centro ; -   
+ IIsem ; Firenze ; Tribunale ; Pisa ; UPP 4 di 8 ; Sezione Lavoro Unica ; One to One ;806;1.041;2;2;521; Toscana ; Centro ;1,29
+ IIsem ; Firenze ; Tribunale ; Pisa ; UPP 5 di 8 ; Esecuzioni Mobiliari ; One to One ; -   ; -   ;2;1; -   ; Toscana ; Centro ; -   
+ IIsem ; Firenze ; Tribunale ; Pisa ; UPP 5 di 8 ; Prima Sezione Civile ; One to One ;224;261;2;1;261; Toscana ; Centro ;1,17
+ IIsem ; Firenze ; Tribunale ; Pisa ; UPP 6 di 8 ; Crisi d'Impresa ; One to One ; -   ; -   ;2;1; -   ; Toscana ; Centro ; -   
+ IIsem ; Firenze ; Tribunale ; Pisa ; UPP 6 di 8 ; Prima Sezione Civile ; One to One ;224;261;2;1;261; Toscana ; Centro ;1,17
+ IIsem ; Firenze ; Tribunale ; Pistoia ; UPP 1 di 2 ; Sezione Civile Unica ; One to One ;1.651;1.855;9;10;186; Toscana ; Centro ;1,12
+ IIsem ; Firenze ; Tribunale ; Prato ; UPP 1 di 2 ; Sezione Civile Unica ; Mini Pool ;1.312;1.586;9;12;132; Toscana ; Centro ;1,21
+ IIsem ; Firenze ; Tribunale ; Siena ; UPP 1 di 5 ; Sezione Civile Unica ; One to One ;1.138;1.269;6;5;254; Toscana ; Centro ;1,12
+ IIsem ; Firenze ; Tribunale ; Siena ; UPP 2 di 5 ; Sezione Civile Unica ; One to One ;190;212;1;2;106; Toscana ; Centro ;1,12
+ IIsem ; Firenze ; Tribunale ; Siena ; UPP 3 di 5 ; Sezione Civile Unica ; One to One ;379;423;2;2;212; Toscana ; Centro ;1,12
+ IIsem ; Genova ; Corte di Appello ; Genova ; UPP 1 di 7 ; Prima Sezione Civile ; One to One ;229;329;6;8;41; Liguria ; Nord Ovest ;1,44
+ IIsem ; Genova ; Corte di Appello ; Genova ; UPP 2 di 7 ; Seconda Sezione Civile ; One to One ;239;246;5;8;31; Liguria ; Nord Ovest ;1,03
+ IIsem ; Genova ; Corte di Appello ; Genova ; UPP 3 di 7 ; Terza Sezione Civile ; One to One ;197;225;5;10;23; Liguria ; Nord Ovest ;1,14
+ IIsem ; Genova ; Corte di Appello ; Genova ; UPP 4 di 7 ; Sezione Lavoro Unica ; One to One ;172;214;5;3;71; Liguria ; Nord Ovest ;1,24
+ IIsem ; Genova ; Tribunale ; Genova ; UPP 1 di 12 ; Prima Sezione Civile ; Mini Pool ;199;219;6;3;73; Liguria ; Nord Ovest ;1,1
+ IIsem ; Genova ; Tribunale ; Genova ; UPP 1 di 12 ; Quinta Sezione Civile ; Mini Pool ;68;69;6;3;23; Liguria ; Nord Ovest ;1,01
+ IIsem ; Genova ; Tribunale ; Genova ; UPP 2 di 12 ; Seconda Sezione Civile ; One to One ;275;367;4;8;46; Liguria ; Nord Ovest ;1,33
+ IIsem ; Genova ; Tribunale ; Genova ; UPP 3 di 12 ; Sezione Civile Agraria ; One to One ; -   ; -   ;6;4; -   ; Liguria ; Nord Ovest ; -   
+ IIsem ; Genova ; Tribunale ; Genova ; UPP 3 di 12 ; Terza Sezione Civile ; One to One ;1.200;1.278;6;4;365; Liguria ; Nord Ovest ;1,07
+ IIsem ; Genova ; Tribunale ; Genova ; UPP 4 di 12 ; Quarta Sezione Civile ; One to One ;1.072;1.056;7;9;117; Liguria ; Nord Ovest ;0,99
+ IIsem ; Genova ; Tribunale ; Genova ; UPP 5 di 12 ; Sesta Sezione Civile ; One to One ;388;528;5;7;75; Liguria ; Nord Ovest ;1,36
+ IIsem ; Genova ; Tribunale ; Genova ; UPP 6 di 12 ; Settima Sezione Civile ; One to One ;108;105;6;7;15; Liguria ; Nord Ovest ;0,97
+ IIsem ; Genova ; Tribunale ; Genova ; UPP 7 di 12 ; Sezione Civile Immigrazione ; One to One ;2.539;614;5;8;77; Liguria ; Nord Ovest ;0,24
+ IIsem ; Genova ; Tribunale ; Genova ; UPP 8 di 12 ; Sezione Lavoro Unica ; One to One ;2.522;2.426;7;9;270; Liguria ; Nord Ovest ;0,96
+ IIsem ; Genova ; Tribunale ; Imperia ; UPP 1 di 5 ; Sezione Civile Unica ; Mini Pool ;213;215;1;2;107; Liguria ; Nord Ovest ;1,01
+ IIsem ; Genova ; Tribunale ; Imperia ; UPP 2 di 5 ; Sezione Civile Unica ; Mini Pool ;638;645;3;2;322; Liguria ; Nord Ovest ;1,01
+ IIsem ; Genova ; Tribunale ; Imperia ; UPP 3 di 5 ; Sezione Civile Unica ; Rotazione ;425;430;2;2;215; Liguria ; Nord Ovest ;1,01
+ IIsem ; Genova ; Tribunale ; La Spezia ; UPP 1 di 2 ; Sezione Civile Unica ; Mini Pool ;2.940;3.048;12;10;305; Liguria ; Nord Ovest ;1,04
+ IIsem ; Genova ; Tribunale ; Massa ; UPP 1 di 1 ; Sezione Civile Unica ; One to One ;2.130;2.255;8;18;125; Toscana ; Centro ;1,06
+ IIsem ; Genova ; Tribunale ; Savona ; UPP 1 di 7 ; Sezione Civile Unica ; One to One ;166;161;2;2;80; Liguria ; Nord Ovest ;0,97
+ IIsem ; Genova ; Tribunale ; Savona ; UPP 2 di 7 ; Sezione Civile Unica ; One to One ;249;241;3;2;120; Liguria ; Nord Ovest ;0,97
+ IIsem ; Genova ; Tribunale ; Savona ; UPP 3 di 7 ; Sezione Civile Unica ; One to One ;415;401;5;3;134; Liguria ; Nord Ovest ;0,97
+ IIsem ; Genova ; Tribunale ; Savona ; UPP 4 di 7 ; Sezione Civile Unica ; One to One ;166;161;2;1;161; Liguria ; Nord Ovest ;0,97
+ IIsem ; L'Aquila ; Corte di Appello ; L'Aquila ; UPP 1 di 9 ; Sezione Civile Unica ; Collegio ;113;148;3;7;21; Abbruzzo ; Sud ;1,31
+ IIsem ; L'Aquila ; Corte di Appello ; L'Aquila ; UPP 2 di 9 ; Sezione Civile Unica ; Collegio ;113;148;3;7;21; Abbruzzo ; Sud ;1,31
+ IIsem ; L'Aquila ; Corte di Appello ; L'Aquila ; UPP 3 di 9 ; Sezione Civile Unica ; Collegio ;151;198;4;7;28; Abbruzzo ; Sud ;1,31
+ IIsem ; L'Aquila ; Corte di Appello ; L'Aquila ; UPP 4 di 9 ; Sezione Lavoro Unica ; Collegio ;247;245;4;1;245; Abbruzzo ; Sud ;0,99
+ IIsem ; L'Aquila ; Corte di Appello ; L'Aquila ; UPP 5 di 9 ; Sezione Civile Unica ; Collegio ;189;247;5;2;124; Abbruzzo ; Sud ;1,31
+ IIsem ; L'Aquila ; Tribunale ; Chieti ; UPP 2 di 5 ; Prima Sezione Civile ; Mini Pool ;1.512;1.427;4;7;204; Abbruzzo ; Sud ;0,94
+ IIsem ; L'Aquila ; Tribunale ; Chieti ; UPP 3 di 5 ; Prima Sezione Civile ; Mini Pool ;756;713;2;2;357; Abbruzzo ; Sud ;0,94
+ IIsem ; L'Aquila ; Tribunale ; Chieti ; UPP 5 di 5 ; Prima Sezione Civile ; Mini Pool ;378;357;1;2;178; Abbruzzo ; Sud ;0,94
+ IIsem ; L'Aquila ; Tribunale ; Pescara ; UPP 2 di 7 ; Sezione Civile Unica ; One to One ;566;536;3;4;134; Abbruzzo ; Sud ;0,95
+ IIsem ; L'Aquila ; Tribunale ; Pescara ; UPP 3 di 7 ; Sezione Civile Unica ; One to One ;754;715;4;7;102; Abbruzzo ; Sud ;0,95
+ IIsem ; L'Aquila ; Tribunale ; Pescara ; UPP 4 di 7 ; Sezione Civile Unica ; One to One ;377;357;2; -   ; -   ; Abbruzzo ; Sud ;0,95
+ IIsem ; L'Aquila ; Tribunale ; Pescara ; UPP 5 di 7 ; Sezione Civile Unica ; Mini Pool ;566;536;3;2;268; Abbruzzo ; Sud ;0,95
+ IIsem ; L'Aquila ; Tribunale ; Teramo ; UPP 1 di 6 ; Prima Sezione Civile ; Mini Pool ;2.377;2.395;14;11;218; Abbruzzo ; Sud ;1,01
+ IIsem ; L'Aquila ; Tribunale ; Teramo ; UPP 2 di 6 ; Prima Sezione Civile ; Mini Pool ;340;342;2;2;171; Abbruzzo ; Sud ;1,01
+ IIsem ; L'Aquila ; Tribunale ; Teramo ; UPP 3 di 6 ; Prima Sezione Civile ; Mini Pool ;340;342;2;1;342; Abbruzzo ; Sud ;1,01
+ IIsem ; L'Aquila ; Tribunale ; Teramo ; UPP 6 di 6 ; Prima Sezione Civile ; Mini Pool ;509;513;3;6;86; Abbruzzo ; Sud ;1,01
+ IIsem ; Lecce ; Corte di Appello ; Lecce ; UPP 1 di 6 ; Sezione Lavoro Unica ; Collegio ;397;348;4;6;58; Puglia ; Sud ;0,88
+ IIsem ; Lecce ; Corte di Appello ; Lecce ; UPP 2 di 6 ; Prima Sezione Civile ; One to One ;255;299;5;9;33; Puglia ; Sud ;1,17
+ IIsem ; Lecce ; Corte di Appello ; Lecce ; UPP 3 di 6 ; Seconda Sezione Civile ; One to One ;278;253;5;8;32; Puglia ; Sud ;0,91
+ IIsem ; Lecce ; Tribunale ; Brindisi ; UPP 1 di 3 ; Sezione Civile Unica ; One to One ;5.779;5.122;12;25;205; Puglia ; Sud ;0,89
+ IIsem ; Lecce ; Tribunale ; Brindisi ; UPP 2 di 3 ; Sezione Civile Unica ; One to One ;1.445;1.280;3;7;183; Puglia ; Sud ;0,89
+ IIsem ; Lecce ; Tribunale ; Lecce ; UPP 1 di 27 ; Prima Sezione Civile ; Mini Pool ;1.042;841;8;13;65; Puglia ; Sud ;0,81
+ IIsem ; Lecce ; Tribunale ; Lecce ; UPP 2 di 27 ; Prima Sezione Civile ; Mini Pool ;521;420;4;3;140; Puglia ; Sud ;0,81
+ IIsem ; Lecce ; Tribunale ; Lecce ; UPP 3 di 27 ; Seconda Sezione Civile ; Mini Pool ;1.158;1.159;20;10;116; Puglia ; Sud ;1
+ IIsem ; Lecce ; Tribunale ; Lecce ; UPP 4 di 27 ; Seconda Sezione Civile ; Mini Pool ;579;579;10;3;193; Puglia ; Sud ;1
+ IIsem ; Lecce ; Tribunale ; Lecce ; UPP 6 di 27 ; Terza Sezione Civile ; Mini Pool ;445;478;4;4;120; Puglia ; Sud ;1,07
+ IIsem ; Lecce ; Tribunale ; Lecce ; UPP 7 di 27 ; Terza Sezione Civile ; Mini Pool ;445;478;4;3;159; Puglia ; Sud ;1,07
+ IIsem ; Lecce ; Tribunale ; Lecce ; UPP 8 di 27 ; Sezione Lavoro Unica ; Mini Pool ;8.027;7.302;7;9;811; Puglia ; Sud ;0,91
+ IIsem ; Lecce ; Tribunale ; Lecce ; UPP 9 di 27 ; Prima Sezione Civile ; Mini Pool ;260;210;2;0;630; Puglia ; Sud ;0,81
+ IIsem ; Lecce ; Tribunale ; Lecce ; UPP 9 di 27 ; Seconda Sezione Civile ; Mini Pool ;116;116;2;0;348; Puglia ; Sud ;1
+ IIsem ; Lecce ; Tribunale ; Lecce ; UPP 9 di 27 ; Terza Sezione Civile ; Mini Pool ;223;239;2;0;717; Puglia ; Sud ;1,07
+ IIsem ; Messina ; Corte di Appello ; Messina ; UPP 2 di 4 ; Prima Sezione Civile ; Rotazione ;376;344;5;8;46; Sicilia ; Isole ;0,91
+ IIsem ; Messina ; Corte di Appello ; Messina ; UPP 2 di 4 ; Seconda Sezione Civile ; One to One ;804;853;5;8;114; Sicilia ; Isole ;1,06
+ IIsem ; Messina ; Corte di Appello ; Messina ; UPP 3 di 4 ; Sezione Lavoro Unica ; One to One ;295;441;4;4;110; Sicilia ; Isole ;1,49
+ IIsem ; Messina ; Tribunale ; Barcellona Pozzo di Gotto ; UPP 1 di 4 ; Sezione Civile Unica ; One to One ;1.366;1.734;8;12;145; Sicilia ; Isole ;1,27
+ IIsem ; Messina ; Tribunale ; Barcellona Pozzo di Gotto ; UPP 2 di 4 ; Sezione Lavoro Unica ; One to One ;1.440;1.311;2;2;656; Sicilia ; Isole ;0,91
+ IIsem ; Messina ; Tribunale ; Messina ; UPP 2 di 10 ; Prima Sezione Civile ; One to One ;1.284;1.262;3;6;210; Sicilia ; Isole ;0,98
+ IIsem ; Messina ; Tribunale ; Messina ; UPP 3 di 10 ; Prima Sezione Civile ; One to One ;2.139;2.103;5;7;300; Sicilia ; Isole ;0,98
+ IIsem ; Messina ; Tribunale ; Messina ; UPP 4 di 10 ; Terza Sezione Civile ; Mini Pool ;518;218;3;5;44; Sicilia ; Isole ;0,42
+ IIsem ; Messina ; Tribunale ; Messina ; UPP 5 di 10 ; Impossibile Associare ; Collegio ;65;38;2;2;17; Sicilia ; Isole ;0,58
+ IIsem ; Messina ; Tribunale ; Messina ; UPP 5 di 10 ; Seconda Sezione Civile ; Collegio ;538;860;7;8;111; Sicilia ; Isole ;1,6
+ IIsem ; Messina ; Tribunale ; Messina ; UPP 6 di 10 ; Seconda Sezione Civile ; Collegio ;307;491;4;5;98; Sicilia ; Isole ;1,6
+ IIsem ; Messina ; Tribunale ; Messina ; UPP 7 di 10 ; Sezione Lavoro Unica ; One to One ;3.455;3.332;6;13;256; Sicilia ; Isole ;0,96
+ IIsem ; Messina ; Tribunale ; Patti ; UPP 1 di 2 ; Sezione Civile Unica ; One to One ;3.285;4.496;11;21;214; Sicilia ; Isole ;1,37
+ IIsem ; Milano ; Corte di Appello ; Milano ; UPP 1 di 14 ; Prima Sezione Civile ; Rotazione ;484;564;9;13;43; Lombardia ; Nord Ovest ;1,17
+ IIsem ; Milano ; Corte di Appello ; Milano ; UPP 2 di 14 ; Seconda Sezione Civile ; Assegnazione al fascicolo ;569;629;8;10;63; Lombardia ; Nord Ovest ;1,11
+ IIsem ; Milano ; Corte di Appello ; Milano ; UPP 3 di 14 ; Terza Sezione Civile ; Rotazione ;431;448;9;8;56; Lombardia ; Nord Ovest ;1,04
+ IIsem ; Milano ; Corte di Appello ; Milano ; UPP 4 di 14 ; Quarta Sezione Civile ; Mini Pool ;374;436;11;10;44; Lombardia ; Nord Ovest ;1,17
+ IIsem ; Milano ; Corte di Appello ; Milano ; UPP 6 di 14 ; Sezione Lavoro Unica ; Collegio ;711;630;10;5;126; Lombardia ; Nord Ovest ;0,89
+ IIsem ; Milano ; Tribunale ; Busto Arsizio ; UPP 1 di 8 ; Prima Sezione Civile ; Rotazione ;1.875;1.864;3;3;621; Lombardia ; Nord Ovest ;0,99
+ IIsem ; Milano ; Tribunale ; Busto Arsizio ; UPP 2 di 8 ; Prima Sezione Civile ; Mini Pool ;1.875;1.864;3;4;466; Lombardia ; Nord Ovest ;0,99
+ IIsem ; Milano ; Tribunale ; Busto Arsizio ; UPP 3 di 8 ; Seconda Sezione Civile ; Mini Pool ;64;74;5;4;19; Lombardia ; Nord Ovest ;1,16
+ IIsem ; Milano ; Tribunale ; Busto Arsizio ; UPP 4 di 8 ; Terza Sezione Civile ; One to One ;1.880;1.805;7;7;258; Lombardia ; Nord Ovest ;0,96
+ IIsem ; Milano ; Tribunale ; Busto Arsizio ; UPP 7 di 8 ; Prima Sezione Civile ; Mini Pool ;625;621;1;2;311; Lombardia ; Nord Ovest ;0,99
+ IIsem ; Milano ; Tribunale ; Como ; UPP 1 di 8 ; Prima Sezione Civile ; Rotazione ;726;751;3;5;150; Lombardia ; Nord Ovest ;1,04
+ IIsem ; Milano ; Tribunale ; Como ; UPP 2 di 8 ; Prima Sezione Civile ; Rotazione ;484;501;2;4;125; Lombardia ; Nord Ovest ;1,04
+ IIsem ; Milano ; Tribunale ; Como ; UPP 3 di 8 ; Prima Sezione Civile ; Rotazione ;1.209;1.252;5;2;626; Lombardia ; Nord Ovest ;1,04
+ IIsem ; Milano ; Tribunale ; Como ; UPP 3 di 8 ; Seconda Sezione Civile ; Rotazione ;1.060;976;5;2;488; Lombardia ; Nord Ovest ;0,92
+ IIsem ; Milano ; Tribunale ; Como ; UPP 4 di 8 ; Seconda Sezione Civile ; One to One ;212;195;1;1;195; Lombardia ; Nord Ovest ;0,92
+ IIsem ; Milano ; Tribunale ; Como ; UPP 5 di 8 ; Prima Sezione Civile ; Rotazione ;484;501;2;2;250; Lombardia ; Nord Ovest ;1,04
+ IIsem ; Milano ; Tribunale ; Lecco ; UPP 1 di 2 ; Sezione Civile Unica ; One to One ;2.214;2.002;6;8;250; Lombardia ; Nord Ovest ;0,9
+ IIsem ; Milano ; Tribunale ; Lodi ; UPP 1 di 3 ; Prima Sezione Civile ; Rotazione ;1.642;1.627;9;11;148; Lombardia ; Nord Ovest ;0,99
+ IIsem ; Milano ; Tribunale ; Lodi ; UPP 3 di 3 ; Prima Sezione Civile ; Rotazione ;1.642;1.627;9; -   ; -   ; Lombardia ; Nord Ovest ;0,99
+ IIsem ; Milano ; Tribunale ; Milano ; UPP 1 di 1 ; Decima Sezione Civile ; One to One ;655;717;7;14;52; Lombardia ; Nord Ovest ;1,09
+ IIsem ; Milano ; Tribunale ; Milano ; UPP 1 di 1 ; Dodicesima Sezione Civile ; Mini Pool ;3.969;1.870;10;20;95; Lombardia ; Nord Ovest ;0,47
+ IIsem ; Milano ; Tribunale ; Milano ; UPP 1 di 1 ; Nona Sezione Civile ; Mini Pool ;2.641;2.660;9;18;150; Lombardia ; Nord Ovest ;1,01
+ IIsem ; Milano ; Tribunale ; Milano ; UPP 1 di 1 ; Ottava Sezione Civile ; Rotazione ;2.483;2.126;5;10;216; Lombardia ; Nord Ovest ;0,86
+ IIsem ; Milano ; Tribunale ; Milano ; UPP 1 di 1 ; Prima Sezione Civile ; Rotazione ;597;559;7;14;40; Lombardia ; Nord Ovest ;0,94
+ IIsem ; Milano ; Tribunale ; Milano ; UPP 1 di 1 ; Quarta Sezione Civile ; Assegnazione al fascicolo ;639;665;7;14;48; Lombardia ; Nord Ovest ;1,04
+ IIsem ; Milano ; Tribunale ; Milano ; UPP 1 di 1 ; Quattordicesima Sezione Civile ; One to One ;224;243;6;12;21; Lombardia ; Nord Ovest ;1,08
+ IIsem ; Milano ; Tribunale ; Milano ; UPP 1 di 1 ; Quindicesima Sezione Civile ; One to One ;1.100;997;6;12;84; Lombardia ; Nord Ovest ;0,91
+ IIsem ; Milano ; Tribunale ; Milano ; UPP 1 di 1 ; Quinta Sezione Civile ; Rotazione ;621;551;5;10;56; Lombardia ; Nord Ovest ;0,89
+ IIsem ; Milano ; Tribunale ; Milano ; UPP 1 di 1 ; Seconda Sezione Civile ; Rotazione ;276;212;9;18;12; Lombardia ; Nord Ovest ;0,77
+ IIsem ; Milano ; Tribunale ; Milano ; UPP 1 di 1 ; Sesta Sezione Civile ; One to One ;875;1.089;13;26;42; Lombardia ; Nord Ovest ;1,24
+ IIsem ; Milano ; Tribunale ; Milano ; UPP 1 di 1 ; Settima Sezione Civile ; Mini Pool ;1.007;848;8;16;54; Lombardia ; Nord Ovest ;0,84
+ IIsem ; Milano ; Tribunale ; Milano ; UPP 1 di 1 ; Sezione Civile Agraria ; One to One ; -   ;1;6;12;0; Lombardia ; Nord Ovest ; -   
+ IIsem ; Milano ; Tribunale ; Milano ; UPP 1 di 1 ; Sezione Lavoro Unica ; One to One ;7.290;6.877;21;41;166; Lombardia ; Nord Ovest ;0,94
+ IIsem ; Milano ; Tribunale ; Milano ; UPP 1 di 1 ; Terza Sezione Civile ; One to One ;430;507;9;18;29; Lombardia ; Nord Ovest ;1,18
+ IIsem ; Milano ; Tribunale ; Milano ; UPP 1 di 1 ; Tredicesima Sezione Civile ; One to One ;2.796;2.817;9;18;159; Lombardia ; Nord Ovest ;1,01
+ IIsem ; Milano ; Tribunale ; Milano ; UPP 1 di 1 ; Undicesima Sezione Civile ; One to One ;484;616;6;12;52; Lombardia ; Nord Ovest ;1,27
+ IIsem ; Milano ; Tribunale ; Monza ; UPP 1 di 8 ; Prima Sezione Civile ; One to One ;453;616;6;6;103; Lombardia ; Nord Ovest ;1,36
+ IIsem ; Milano ; Tribunale ; Monza ; UPP 2 di 8 ; Seconda Sezione Civile ; One to One ;1.273;1.270;5;5;254; Lombardia ; Nord Ovest ;1
+ IIsem ; Milano ; Tribunale ; Monza ; UPP 3 di 8 ; Terza Sezione Civile ; One to One ;151;126;6;6;21; Lombardia ; Nord Ovest ;0,83
+ IIsem ; Milano ; Tribunale ; Monza ; UPP 4 di 8 ; Quarta Sezione Civile ; Mini Pool ;2.427;2.483;7;7;355; Lombardia ; Nord Ovest ;1,02
+ IIsem ; Milano ; Tribunale ; Monza ; UPP 5 di 8 ; Sezione Lavoro Unica ; One to One ;1.576;1.355;5;5;271; Lombardia ; Nord Ovest ;0,86
+ IIsem ; Milano ; Tribunale ; Pavia ; UPP 1 di 6 ; Prima Sezione Civile ; One to One ;1.224;1.343;7;7;192; Lombardia ; Nord Ovest ;1,1
+ IIsem ; Milano ; Tribunale ; Pavia ; UPP 2 di 6 ; Seconda Sezione Civile ; Collegio ;2.906;2.960;6;5;592; Lombardia ; Nord Ovest ;1,02
+ IIsem ; Milano ; Tribunale ; Pavia ; UPP 3 di 6 ; Terza Sezione Civile ; Rotazione ;1.271;1.358;7;4;340; Lombardia ; Nord Ovest ;1,07
+ IIsem ; Milano ; Tribunale ; Varese ; UPP 1 di 5 ; Prima Sezione Civile ; One to One ;3.149;3.223;7;7;460; Lombardia ; Nord Ovest ;1,02
+ IIsem ; Milano ; Tribunale ; Varese ; UPP 2 di 5 ; Seconda Sezione Civile ; One to One ;1.261;1.375;8;7;196; Lombardia ; Nord Ovest ;1,09
+ IIsem ; Napoli ; Corte di Appello ; Napoli ; UPP 1 di 3 ; Nona Sezione Civile ; Collegio ;297;434;6;8;57; Campania ; Sud ;1,46
+ IIsem ; Napoli ; Corte di Appello ; Napoli ; UPP 1 di 3 ; Ottava Sezione Civile ; Collegio ;629;472;6;8;63; Campania ; Sud ;0,75
+ IIsem ; Napoli ; Corte di Appello ; Napoli ; UPP 1 di 3 ; Prima Sezione Civile ; Collegio ;630;678;6;8;90; Campania ; Sud ;1,08
+ IIsem ; Napoli ; Corte di Appello ; Napoli ; UPP 1 di 3 ; Quarta Sezione Civile ; Collegio ;565;558;6;8;74; Campania ; Sud ;0,99
+ IIsem ; Napoli ; Corte di Appello ; Napoli ; UPP 1 di 3 ; Quinta Sezione Civile ; Collegio ;445;395;6;8;52; Campania ; Sud ;0,89
+ IIsem ; Napoli ; Corte di Appello ; Napoli ; UPP 1 di 3 ; Seconda Sezione Civile ; Collegio ;425;393;5;6;62; Campania ; Sud ;0,92
+ IIsem ; Napoli ; Corte di Appello ; Napoli ; UPP 1 di 3 ; Sesta Sezione Civile ; Collegio ;463;435;6;8;58; Campania ; Sud ;0,94
+ IIsem ; Napoli ; Corte di Appello ; Napoli ; UPP 1 di 3 ; Settima Sezione Civile ; Collegio ;720;605;7;9;69; Campania ; Sud ;0,84
+ IIsem ; Napoli ; Corte di Appello ; Napoli ; UPP 1 di 3 ; Sezione promiscua minorenni ; Rotazione ;243;258;5;3;95; Campania ; Sud ;1,06
+ IIsem ; Napoli ; Corte di Appello ; Napoli ; UPP 1 di 3 ; Terza Sezione Civile ; Collegio ;513;539;5;6;86; Campania ; Sud ;1,05
+ IIsem ; Napoli ; Corte di Appello ; Napoli ; UPP 2 di 3 ; Sezione Lavoro Unica ; Assegnazione al fascicolo ;1.761;1.885;22;10;189; Campania ; Sud ;1,07
+ IIsem ; Napoli ; Tribunale ; Avellino ; UPP 1 di 7 ; Prima Sezione Civile ; One to One ;1.999;2.162;8;13;166; Campania ; Sud ;1,08
+ IIsem ; Napoli ; Tribunale ; Avellino ; UPP 2 di 7 ; Seconda Sezione Civile ; One to One ;1.703;1.729;8;18;96; Campania ; Sud ;1,01
+ IIsem ; Napoli ; Tribunale ; Avellino ; UPP 5 di 7 ; Seconda Sezione Civile ; One to One ;852;864;4;10;86; Campania ; Sud ;1,01
+ IIsem ; Napoli ; Tribunale ; Benevento ; UPP 1 di 3 ; Prima Sezione Civile ; One to One ;1.080;1.024;8;12;84; Campania ; Sud ;0,95
+ IIsem ; Napoli ; Tribunale ; Benevento ; UPP 1 di 3 ; Seconda Sezione Civile ; One to One ;786;817;9;14;60; Campania ; Sud ;1,04
+ IIsem ; Napoli ; Tribunale ; Benevento ; UPP 1 di 3 ; Sezione Lavoro Unica ; One to One ;2.606;2.513;4;6;412; Campania ; Sud ;0,96
+ IIsem ; Napoli ; Tribunale ; Napoli ; UPP 1 di 17 ; Prima Sezione Civile ; One to One ;2.933;2.794;9;13;215; Campania ; Sud ;0,95
+ IIsem ; Napoli ; Tribunale ; Napoli ; UPP 10 di 17 ; Decima Sezione Civile ; One to One ;701;681;7;9;76; Campania ; Sud ;0,97
+ IIsem ; Napoli ; Tribunale ; Napoli ; UPP 11 di 17 ; Undicesima Sezione Civile ; One to One ;1.179;1.333;6;9;148; Campania ; Sud ;1,13
+ IIsem ; Napoli ; Tribunale ; Napoli ; UPP 12 di 17 ; Dodicesima Sezione Civile ; One to One ;1.209;1.472;7;13;113; Campania ; Sud ;1,22
+ IIsem ; Napoli ; Tribunale ; Napoli ; UPP 13 di 17 ; Tredicesima Sezione Civile ; One to One ;3.386;1.225;7;13;94; Campania ; Sud ;0,36
+ IIsem ; Napoli ; Tribunale ; Napoli ; UPP 15 di 17 ; Prima Sezione Lavoro ; One to One ;4.459;4.176;14;17;253; Campania ; Sud ;0,94
+ IIsem ; Napoli ; Tribunale ; Napoli ; UPP 15 di 17 ; Seconda Sezione Lavoro ; One to One ;4.632;3.795;12;14;268; Campania ; Sud ;0,82
+ IIsem ; Napoli ; Tribunale ; Napoli ; UPP 15 di 17 ; Terza Sezione Lavoro ; One to One ;4.651;4.475;13;15;292; Campania ; Sud ;0,96
+ IIsem ; Napoli ; Tribunale ; Napoli ; UPP 2 di 17 ; Seconda Sezione Civile ; Rotazione ;2.115;2.496;10;14;178; Campania ; Sud ;1,18
+ IIsem ; Napoli ; Tribunale ; Napoli ; UPP 3 di 17 ; Terza Sezione Civile ; One to One ;529;462;7;6;77; Campania ; Sud ;0,87
+ IIsem ; Napoli ; Tribunale ; Napoli ; UPP 4 di 17 ; Quarta Sezione Civile ; One to One ;648;849;5;8;106; Campania ; Sud ;1,31
+ IIsem ; Napoli ; Tribunale ; Napoli ; UPP 5 di 17 ; Quattordicesima Sezione Civile ; One to One ;372;351;6;7;48; Campania ; Sud ;0,94
+ IIsem ; Napoli ; Tribunale ; Napoli ; UPP 5 di 17 ; Quinta Sezione Civile ; Rotazione ;411;476;7;9;55; Campania ; Sud ;1,16
+ IIsem ; Napoli ; Tribunale ; Napoli ; UPP 6 di 17 ; Sesta Sezione Civile ; One to One ;663;693;6;10;69; Campania ; Sud ;1,05
+ IIsem ; Napoli ; Tribunale ; Napoli ; UPP 7 di 17 ; Settima Sezione Civile ; One to One ;139;120;7;7;17; Campania ; Sud ;0,86
+ IIsem ; Napoli ; Tribunale ; Napoli ; UPP 8 di 17 ; Ottava Sezione Civile ; One to One ;771;871;7;15;58; Campania ; Sud ;1,13
+ IIsem ; Napoli ; Tribunale ; Napoli ; UPP 9 di 17 ; Nona Sezione Civile ; One to One ;1.731;1.750;6;7;250; Campania ; Sud ;1,01
+ IIsem ; Napoli ; Tribunale ; Napoli Nord ; UPP 1 di 1 ; Prima Sezione Civile ; Mini Pool ;3.146;2.909;9;26;112; Campania ; Sud ;0,92
+ IIsem ; Napoli ; Tribunale ; Napoli Nord ; UPP 1 di 1 ; Seconda Sezione Civile ; One to One ;3.284;3.419;12;35;99; Campania ; Sud ;1,04
+ IIsem ; Napoli ; Tribunale ; Napoli Nord ; UPP 1 di 1 ; Sezione Lavoro Unica ; Mini Pool ;8.237;8.109;16;46;176; Campania ; Sud ;0,98
+ IIsem ; Napoli ; Tribunale ; Napoli Nord ; UPP 1 di 1 ; Terza Sezione Civile ; One to One ;1.161;775;11;32;25; Campania ; Sud ;0,67
+ IIsem ; Napoli ; Tribunale ; Nola ; UPP 1 di 5 ; Prima Sezione Civile ; One to One ;2.589;3.188;12;33;97; Campania ; Sud ;1,23
+ IIsem ; Napoli ; Tribunale ; Nola ; UPP 2 di 5 ; Seconda Sezione Civile ; One to One ;1.833;1.794;6;10;179; Campania ; Sud ;0,98
+ IIsem ; Napoli ; Tribunale ; Nola ; UPP 3 di 5 ; Sezione Lavoro Unica ; One to One ;3.798;3.406;8;20;170; Campania ; Sud ;0,9
+ IIsem ; Napoli ; Tribunale ; Santa Maria Capua Vetere ; UPP 1 di 11 ; Prima Sezione Civile ; One to One ;2.378;2.718;9;17;160; Campania ; Sud ;1,14
+ IIsem ; Napoli ; Tribunale ; Santa Maria Capua Vetere ; UPP 2 di 11 ; Seconda Sezione Civile ; One to One ;4.718;4.853;13;18;270; Campania ; Sud ;1,03
+ IIsem ; Napoli ; Tribunale ; Santa Maria Capua Vetere ; UPP 3 di 11 ; Terza Sezione Civile ; One to One ;1.841;2.064;9;16;129; Campania ; Sud ;1,12
+ IIsem ; Napoli ; Tribunale ; Santa Maria Capua Vetere ; UPP 4 di 11 ; Quarta Sezione Civile ; One to One ;982;1.447;11;11;132; Campania ; Sud ;1,47
+ IIsem ; Napoli ; Tribunale ; Torre Annunziata ; UPP 1 di 5 ; Prima Sezione Civile ; Mini Pool ;842;917;9;3;285; Campania ; Sud ;1,09
+ IIsem ; Napoli ; Tribunale ; Torre Annunziata ; UPP 1 di 5 ; Seconda Sezione Civile ; Mini Pool ;1.038;982;10;4;275; Campania ; Sud ;0,95
+ IIsem ; Napoli ; Tribunale ; Torre Annunziata ; UPP 1 di 5 ; Sezione Lavoro Unica ; Mini Pool ;1.823;1.871;8;3;655; Campania ; Sud ;1,03
+ IIsem ; Napoli ; Tribunale ; Torre Annunziata ; UPP 1 di 5 ; Terza Sezione Civile ; Mini Pool ;498;665;15;5;124; Campania ; Sud ;1,34
+ IIsem ; Napoli ; Tribunale ; Torre Annunziata ; UPP 2 di 5 ; Prima Sezione Civile ; Mini Pool ;842;917;9;16;57; Campania ; Sud ;1,09
+ IIsem ; Napoli ; Tribunale ; Torre Annunziata ; UPP 3 di 5 ; Terza Sezione Civile ; Mini Pool ;498;665;15;10;67; Campania ; Sud ;1,34
+ IIsem ; Napoli ; Tribunale ; Torre Annunziata ; UPP 4 di 5 ; Sezione Lavoro Unica ; Mini Pool ;1.823;1.871;8;7;267; Campania ; Sud ;1,03
+ IIsem ; Palermo ; Corte di Appello ; Palermo ; UPP 1 di 13 ; Prima Sezione Civile ; Mini Pool ;332;351;5;9;41; Sicilia ; Isole ;1,06
+ IIsem ; Palermo ; Corte di Appello ; Palermo ; UPP 1 di 13 ; Sezione promiscua minorenni ; Mini Pool ;22;24;5;4;6; Sicilia ; Isole ;1,09
+ IIsem ; Palermo ; Corte di Appello ; Palermo ; UPP 12 di 13 ; Sezione Lavoro Unica ; One to One ;136;106;1;2;53; Sicilia ; Isole ;0,78
+ IIsem ; Palermo ; Corte di Appello ; Palermo ; UPP 2 di 13 ; Seconda Sezione Civile ; One to One ;480;505;6;14;36; Sicilia ; Isole ;1,05
+ IIsem ; Palermo ; Corte di Appello ; Palermo ; UPP 3 di 13 ; Terza Sezione Civile ; Mini Pool ;328;365;7;12;30; Sicilia ; Isole ;1,11
+ IIsem ; Palermo ; Corte di Appello ; Palermo ; UPP 4 di 13 ; Sezione Lavoro Unica ; Rotazione ;818;637;6;3;212; Sicilia ; Isole ;0,78
+ IIsem ; Palermo ; Tribunale ; Agrigento ; UPP 1 di 1 ; Sezione Civile Unica ; One to One ;4.376;4.061;12;46;88; Sicilia ; Isole ;0,93
+ IIsem ; Palermo ; Tribunale ; Marsala ; UPP 1 di 10 ; Sezione Civile Unica ; One to One ;940;881;7;5;176; Sicilia ; Isole ;0,94
+ IIsem ; Palermo ; Tribunale ; Marsala ; UPP 2 di 10 ; Sezione Civile Unica ; One to One ;940;881;7;1;881; Sicilia ; Isole ;0,94
+ IIsem ; Palermo ; Tribunale ; Marsala ; UPP 3 di 10 ; Sezione Civile Unica ; One to One ;269;252;2;1;252; Sicilia ; Isole ;0,94
+ IIsem ; Palermo ; Tribunale ; Marsala ; UPP 4 di 10 ; Sezione Civile Unica ; One to One ;269;252;2;1;252; Sicilia ; Isole ;0,94
+ IIsem ; Palermo ; Tribunale ; Marsala ; UPP 5 di 10 ; Sezione Civile Unica ; One to One ;269;252;2;1;252; Sicilia ; Isole ;0,94
+ IIsem ; Palermo ; Tribunale ; Marsala ; UPP 6 di 10 ; Sezione Civile Unica ; One to One ;269;252;2;1;252; Sicilia ; Isole ;0,94
+ IIsem ; Palermo ; Tribunale ; Marsala ; UPP 7 di 10 ; Sezione Civile Unica ; One to One ;269;252;2;1;252; Sicilia ; Isole ;0,94
+ IIsem ; Palermo ; Tribunale ; Palermo ; UPP 1 di 16 ; Sezione Lavoro Unica ; One to One ;9.182;8.542;9;15;569; Sicilia ; Isole ;0,93
+ IIsem ; Palermo ; Tribunale ; Palermo ; UPP 2 di 16 ; Prima Sezione Civile ; One to One ;4.025;3.527;6;15;235; Sicilia ; Isole ;0,88
+ IIsem ; Palermo ; Tribunale ; Palermo ; UPP 3 di 16 ; Sezione Civile Immigrazione ; One to One ;2.540;1.064;4;10;106; Sicilia ; Isole ;0,42
+ IIsem ; Palermo ; Tribunale ; Palermo ; UPP 4 di 16 ; Seconda Sezione Civile ; One to One ;1.492;1.532;7;13;118; Sicilia ; Isole ;1,03
+ IIsem ; Palermo ; Tribunale ; Palermo ; UPP 5 di 16 ; Terza Sezione Civile ; One to One ;1.201;1.773;7;18;99; Sicilia ; Isole ;1,48
+ IIsem ; Palermo ; Tribunale ; Palermo ; UPP 6 di 16 ; Quarta Sezione Civile ; One to One ;272;253;6;5;51; Sicilia ; Isole ;0,93
+ IIsem ; Palermo ; Tribunale ; Palermo ; UPP 7 di 16 ; Quinta Sezione Civile ; Mini Pool ;912;1.057;7;9;117; Sicilia ; Isole ;1,16
+ IIsem ; Palermo ; Tribunale ; Palermo ; UPP 8 di 16 ; Sesta Sezione Civile ; One to One ;364;403;7;8;50; Sicilia ; Isole ;1,11
+ IIsem ; Palermo ; Tribunale ; Termini Imerese ; UPP 2 di 3 ; Sezione Civile Unica ; One to One ;4.486;4.381;11;19;231; Sicilia ; Isole ;0,98
+ IIsem ; Palermo ; Tribunale ; Termini Imerese ; UPP 3 di 3 ; Sezione Civile Unica ; One to One ;816;797;2;4;199; Sicilia ; Isole ;0,98
+ IIsem ; Palermo ; Tribunale ; Trapani ; UPP 1 di 9 ; Sezione Civile Unica ; Mini Pool ;1.005;1.006;5;5;201; Sicilia ; Isole ;1
+ IIsem ; Palermo ; Tribunale ; Trapani ; UPP 2 di 9 ; Sezione Civile Unica ; Mini Pool ;402;403;2;3;134; Sicilia ; Isole ;1
+ IIsem ; Palermo ; Tribunale ; Trapani ; UPP 3 di 9 ; Sezione Civile Unica ; Mini Pool ;402;403;2;3;134; Sicilia ; Isole ;1
+ IIsem ; Palermo ; Tribunale ; Trapani ; UPP 4 di 9 ; Sezione Civile Unica ; One to One ;201;201;1;1;201; Sicilia ; Isole ;1
+ IIsem ; Palermo ; Tribunale ; Trapani ; UPP 5 di 9 ; Sezione Civile Unica ; Mini Pool ;402;403;2;1;403; Sicilia ; Isole ;1
+ IIsem ; Palermo ; Tribunale ; Trapani ; UPP 6 di 9 ; Sezione Civile Unica ; Mini Pool ;402;403;2;3;134; Sicilia ; Isole ;1
+ IIsem ; Perugia ; Corte di Appello ; Perugia ; UPP 1 di 1 ; Prima Sezione Civile ; One to One ;374;521;7;19;28; Umbria ; Centro ;1,39
+ IIsem ; Perugia ; Corte di Appello ; Perugia ; UPP 1 di 1 ; Sezione Lavoro Unica ; Collegio ;82;105;3;8;13; Umbria ; Centro ;1,28
+ IIsem ; Perugia ; Tribunale ; Perugia ; UPP 1 di 5 ; Prima Sezione Civile ; One to One ;2.691;2.149;4;11;195; Umbria ; Centro ;0,8
+ IIsem ; Perugia ; Tribunale ; Perugia ; UPP 2 di 5 ; Seconda Sezione Civile ; One to One ;1.106;1.347;6;9;150; Umbria ; Centro ;1,22
+ IIsem ; Perugia ; Tribunale ; Perugia ; UPP 3 di 5 ; Terza Sezione Civile ; Mini Pool ;1.171;1.237;6;7;177; Umbria ; Centro ;1,06
+ IIsem ; Perugia ; Tribunale ; Terni ; UPP 1 di 4 ; Sezione Civile Unica ; Rotazione ;2.122;2.231;12;9;248; Umbria ; Centro ;1,05
+ IIsem ; Perugia ; Tribunale ; Terni ; UPP 2 di 4 ; Sezione Civile Unica ; One to One ;354;372;2;1;372; Umbria ; Centro ;1,05
+ IIsem ; Perugia ; Tribunale ; Terni ; UPP 3 di 4 ; Sezione Civile Unica ; Mini Pool ;530;558;3;2;279; Umbria ; Centro ;1,05
+ IIsem ; Potenza ; Corte di Appello ; Potenza ; UPP 1 di 4 ; Prima Sezione Civile ; One to One ;291;224;5;9;25; Basilicata ; Sud ;0,77
+ IIsem ; Potenza ; Corte di Appello ; Potenza ; UPP 2 di 4 ; Sezione Lavoro Unica ; One to One ;396;380;3;5;76; Basilicata ; Sud ;0,96
+ IIsem ; Potenza ; Tribunale ; Lagonegro ; UPP 1 di 6 ; Sezione Civile Unica ; One to One ;1.481;1.825;4;9;203; Basilicata ; Sud ;1,23
+ IIsem ; Potenza ; Tribunale ; Lagonegro ; UPP 2 di 6 ; Sezione Civile Unica ; One to One ;741;912;2;3;304; Basilicata ; Sud ;1,23
+ IIsem ; Potenza ; Tribunale ; Matera ; UPP 1 di 7 ; Sezione Civile Unica ; One to One ;545;557;2;2;278; Basilicata ; Sud ;1,02
+ IIsem ; Potenza ; Tribunale ; Matera ; UPP 2 di 7 ; Sezione Civile Unica ; One to One ;273;278;1;1;278; Basilicata ; Sud ;1,02
+ IIsem ; Potenza ; Tribunale ; Matera ; UPP 3 di 7 ; Sezione Civile Unica ; One to One ;273;278;1;2;139; Basilicata ; Sud ;1,02
+ IIsem ; Potenza ; Tribunale ; Matera ; UPP 4 di 7 ; Sezione Civile Unica ; One to One ;1.091;1.114;4;6;186; Basilicata ; Sud ;1,02
+ IIsem ; Potenza ; Tribunale ; Matera ; UPP 5 di 7 ; Sezione Civile Unica ; One to One ;545;557;2;4;139; Basilicata ; Sud ;1,02
+ IIsem ; Potenza ; Tribunale ; Potenza ; UPP 1 di 9 ; Prima Sezione Civile ; Mini Pool ;523;578;2;5;116; Basilicata ; Sud ;1,1
+ IIsem ; Potenza ; Tribunale ; Potenza ; UPP 2 di 9 ; Prima Sezione Civile ; Mini Pool ;523;578;2;4;144; Basilicata ; Sud ;1,1
+ IIsem ; Potenza ; Tribunale ; Potenza ; UPP 3 di 9 ; Prima Sezione Civile ; Mini Pool ;523;578;2;2;289; Basilicata ; Sud ;1,1
+ IIsem ; Potenza ; Tribunale ; Potenza ; UPP 4 di 9 ; Prima Sezione Civile ; Mini Pool ;1.046;1.155;4;9;128; Basilicata ; Sud ;1,1
+ IIsem ; Potenza ; Tribunale ; Potenza ; UPP 5 di 9 ; Prima Sezione Civile ; Mini Pool ;785;866;3;3;289; Basilicata ; Sud ;1,1
+ IIsem ; Potenza ; Tribunale ; Potenza ; UPP 6 di 9 ; Prima Sezione Civile ; Mini Pool ;523;578;2;3;193; Basilicata ; Sud ;1,1
+ IIsem ; Potenza ; Tribunale ; Potenza ; UPP 7 di 9 ; Prima Sezione Civile ; Mini Pool ;262;289;1;2;144; Basilicata ; Sud ;1,1
+ IIsem ; Reggio Di Calabria ; Corte di Appello ; Reggio Calabria ; UPP 1 di 6 ; Sezione Civile Unica ; Mini Pool ;641;853;7;27;32; Calabria ; Sud ;1,33
+ IIsem ; Reggio Di Calabria ; Corte di Appello ; Reggio Calabria ; UPP 2 di 6 ; Sezione Lavoro Unica ; One to One ;315;262;4;7;37; Calabria ; Sud ;0,83
+ IIsem ; Reggio Di Calabria ; Tribunale ; Locri ; UPP 1 di 2 ; Sezione Civile Unica ; One to One ;3.473;4.551;9;18;253; Calabria ; Sud ;1,31
+ IIsem ; Reggio Di Calabria ; Tribunale ; Palmi ; UPP 2 di 7 ; Sezione Civile Unica ; One to One ;1.896;1.972;8;8;246; Calabria ; Sud ;1,04
+ IIsem ; Reggio Di Calabria ; Tribunale ; Palmi ; UPP 3 di 7 ; Sezione Civile Unica ; One to One ;711;739;3;5;148; Calabria ; Sud ;1,04
+ IIsem ; Reggio Di Calabria ; Tribunale ; Palmi ; UPP 4 di 7 ; Sezione Civile Unica ; One to One ;474;493;2;4;123; Calabria ; Sud ;1,04
+ IIsem ; Reggio Di Calabria ; Tribunale ; Reggio Calabria ; UPP 1 di 5 ; Prima Sezione Civile ; Rotazione ;1.316;1.402;10;13;111; Calabria ; Sud ;1,07
+ IIsem ; Reggio Di Calabria ; Tribunale ; Reggio Calabria ; UPP 1 di 5 ; Sezione Civile Agraria ; Rotazione ; -   ;1;4;5;0; Calabria ; Sud ; -   
+ IIsem ; Reggio Di Calabria ; Tribunale ; Reggio Calabria ; UPP 1 di 5 ; Sezione Civile Immigrazione ; Rotazione ;231;236;5;6;37; Calabria ; Sud ;1,02
+ IIsem ; Reggio Di Calabria ; Tribunale ; Reggio Calabria ; UPP 2 di 5 ; Seconda Sezione Civile ; One to One ;2.251;2.401;8;13;185; Calabria ; Sud ;1,07
+ IIsem ; Reggio Di Calabria ; Tribunale ; Reggio Calabria ; UPP 3 di 5 ; Seconda Sezione Civile ; One to One ;1.689;1.800;6;20;90; Calabria ; Sud ;1,07
+ IIsem ; Roma ; Corte di Appello ; Roma ; UPP 1 di 20 ; Prima Sezione Civile ; One to One ;560;764;8;10;76; Lazio ; Centro ;1,36
+ IIsem ; Roma ; Corte di Appello ; Roma ; UPP 14 di 20 ; Nona Sezione Civile ; One to One ;669;604;8;7;86; Lazio ; Centro ;0,9
+ IIsem ; Roma ; Corte di Appello ; Roma ; UPP 15 di 20 ; Prima Sezione Lavoro ; One to One ;393;442;6;4;111; Lazio ; Centro ;1,12
+ IIsem ; Roma ; Corte di Appello ; Roma ; UPP 16 di 20 ; Seconda Sezione Lavoro ; One to One ;399;477;6;5;95; Lazio ; Centro ;1,2
+ IIsem ; Roma ; Corte di Appello ; Roma ; UPP 17 di 20 ; Terza Sezione Lavoro ; One to One ;413;458;6;5;92; Lazio ; Centro ;1,11
+ IIsem ; Roma ; Corte di Appello ; Roma ; UPP 18 di 20 ; Quarta Sezione Lavoro ; One to One ;380;384;6;5;77; Lazio ; Centro ;1,01
+ IIsem ; Roma ; Corte di Appello ; Roma ; UPP 19 di 20 ; Quinta Sezione Lavoro ; One to One ;299;246;5;4;62; Lazio ; Centro ;0,82
+ IIsem ; Roma ; Corte di Appello ; Roma ; UPP 2 di 20 ; Seconda Sezione Civile ; One to One ;471;606;7;9;67; Lazio ; Centro ;1,29
+ IIsem ; Roma ; Corte di Appello ; Roma ; UPP 3 di 20 ; Terza Sezione Civile ; One to One ;437;360;7;7;51; Lazio ; Centro ;0,82
+ IIsem ; Roma ; Corte di Appello ; Roma ; UPP 4 di 20 ; Quarta Sezione Civile ; One to One ;403;351;6;10;35; Lazio ; Centro ;0,87
+ IIsem ; Roma ; Corte di Appello ; Roma ; UPP 5 di 20 ; Quinta Sezione Civile ; One to One ;301;394;5;8;49; Lazio ; Centro ;1,31
+ IIsem ; Roma ; Corte di Appello ; Roma ; UPP 6 di 20 ; Sesta Sezione Civile ; One to One ;294;323;4;6;54; Lazio ; Centro ;1,1
+ IIsem ; Roma ; Corte di Appello ; Roma ; UPP 7 di 20 ; Settima Sezione Civile ; One to One ;268;419;6;7;60; Lazio ; Centro ;1,56
+ IIsem ; Roma ; Corte di Appello ; Roma ; UPP 8 di 20 ; Ottava Sezione Civile ; One to One ;262;440;6;8;55; Lazio ; Centro ;1,68
+ IIsem ; Roma ; Tribunale ; Cassino ; UPP 1 di 4 ; Sezione Civile Unica ; One to One ;1.077;1.137;2;4;284; Lazio ; Centro ;1,06
+ IIsem ; Roma ; Tribunale ; Cassino ; UPP 2 di 4 ; Sezione Civile Unica ; One to One ;3.770;3.980;7;18;221; Lazio ; Centro ;1,06
+ IIsem ; Roma ; Tribunale ; Civitavecchia ; UPP 1 di 10 ; Sezione Civile Unica ; Rotazione ;1.067;1.088;5;6;181; Lazio ; Centro ;1,02
+ IIsem ; Roma ; Tribunale ; Civitavecchia ; UPP 2 di 10 ; Sezione Civile Unica ; Mini Pool ;213;218;1;2;109; Lazio ; Centro ;1,02
+ IIsem ; Roma ; Tribunale ; Civitavecchia ; UPP 3 di 10 ; Sezione Civile Unica ; Mini Pool ;854;870;4;2;435; Lazio ; Centro ;1,02
+ IIsem ; Roma ; Tribunale ; Civitavecchia ; UPP 4 di 10 ; Sezione Civile Unica ; One to One ;427;435;2;2;218; Lazio ; Centro ;1,02
+ IIsem ; Roma ; Tribunale ; Civitavecchia ; UPP 5 di 10 ; Sezione Civile Unica ; Mini Pool ;427;435;2;2;218; Lazio ; Centro ;1,02
+ IIsem ; Roma ; Tribunale ; Civitavecchia ; UPP 6 di 10 ; Sezione Civile Unica ; Mini Pool ;213;218;1;4;54; Lazio ; Centro ;1,02
+ IIsem ; Roma ; Tribunale ; Civitavecchia ; UPP 7 di 10 ; Sezione Civile Unica ; One to One ;213;218;1;2;109; Lazio ; Centro ;1,02
+ IIsem ; Roma ; Tribunale ; Civitavecchia ; UPP 8 di 10 ; Sezione Civile Unica ; Mini Pool ;427;435;2;5;87; Lazio ; Centro ;1,02
+ IIsem ; Roma ; Tribunale ; Frosinone ; UPP 1 di 9 ; Sezione Civile Unica ; One to One ;1.456;1.486;3;4;371; Lazio ; Centro ;1,02
+ IIsem ; Roma ; Tribunale ; Frosinone ; UPP 2 di 9 ; Sezione Civile Unica ; One to One ;971;990;2;3;330; Lazio ; Centro ;1,02
+ IIsem ; Roma ; Tribunale ; Frosinone ; UPP 3 di 9 ; Sezione Civile Unica ; One to One ;1.456;1.486;3;4;371; Lazio ; Centro ;1,02
+ IIsem ; Roma ; Tribunale ; Frosinone ; UPP 4 di 9 ; Sezione Civile Unica ; One to One ;2.427;2.476;5;6;413; Lazio ; Centro ;1,02
+ IIsem ; Roma ; Tribunale ; Latina ; UPP 1 di 2 ; Prima Sezione Civile ; One to One ;1.054;1.309;11;18;74; Lazio ; Centro ;1,24
+ IIsem ; Roma ; Tribunale ; Latina ; UPP 1 di 2 ; Seconda Sezione Civile ; One to One ;3.421;3.112;10;16;192; Lazio ; Centro ;0,91
+ IIsem ; Roma ; Tribunale ; Rieti ; UPP 1 di 1 ; Sezione Civile Unica ; One to One ;2.551;2.432;8;13;187; Lazio ; Centro ;0,95
+ IIsem ; Roma ; Tribunale ; Roma ; UPP 1 di 42 ; Prima Sezione Civile ; One to One ;3.309;3.106;11;14;222; Lazio ; Centro ;0,94
+ IIsem ; Roma ; Tribunale ; Roma ; UPP 10 di 42 ; Decima Sezione Civile ; One to One ;696;877;7;10;88; Lazio ; Centro ;1,26
+ IIsem ; Roma ; Tribunale ; Roma ; UPP 11 di 42 ; Undicesima Sezione Civile ; One to One ;1.158;1.150;8;12;96; Lazio ; Centro ;0,99
+ IIsem ; Roma ; Tribunale ; Roma ; UPP 12 di 42 ; Dodicesima Sezione Civile ; One to One ;671;1.021;6;12;85; Lazio ; Centro ;1,52
+ IIsem ; Roma ; Tribunale ; Roma ; UPP 13 di 42 ; Tredicesima Sezione Civile ; Mini Pool ;1.020;1.072;9;16;67; Lazio ; Centro ;1,05
+ IIsem ; Roma ; Tribunale ; Roma ; UPP 14 di 42 ; Quattordicesima Sezione Civile ; One to One ;205;330;11;11;30; Lazio ; Centro ;1,61
+ IIsem ; Roma ; Tribunale ; Roma ; UPP 15 di 42 ; Primo Tribunale delle Imprese ; Mini Pool ;1.141;1.192;7;14;85; Lazio ; Centro ;1,04
+ IIsem ; Roma ; Tribunale ; Roma ; UPP 17 di 42 ; Sezione Civile Immigrazione ; One to One ;6.245;4.751;21;26;183; Lazio ; Centro ;0,76
+ IIsem ; Roma ; Tribunale ; Roma ; UPP 18 di 42 ; Sezione Lavoro ; One to One ;5.808;5.229;13;6;872; Lazio ; Centro ;0,9
+ IIsem ; Roma ; Tribunale ; Roma ; UPP 19 di 42 ; Sezione Lavoro ; One to One ;5.361;4.827;12;6;805; Lazio ; Centro ;0,9
+ IIsem ; Roma ; Tribunale ; Roma ; UPP 2 di 42 ; Seconda Sezione Civile ; One to One ;884;1.011;9;14;72; Lazio ; Centro ;1,14
+ IIsem ; Roma ; Tribunale ; Roma ; UPP 20 di 42 ; Sezione Lavoro ; Collegio ;5.808;5.229;13;4;1.307; Lazio ; Centro ;0,9
+ IIsem ; Roma ; Tribunale ; Roma ; UPP 21 di 42 ; Sezione Lavoro ; Rotazione ;5.808;5.229;13;4;1.307; Lazio ; Centro ;0,9
+ IIsem ; Roma ; Tribunale ; Roma ; UPP 3 di 42 ; Terza Sezione Civile ; One to One ;248;273;6;6;46; Lazio ; Centro ;1,1
+ IIsem ; Roma ; Tribunale ; Roma ; UPP 4 di 42 ; Quarta Sezione Civile ; Rotazione ;517;505;6;5;101; Lazio ; Centro ;0,98
+ IIsem ; Roma ; Tribunale ; Roma ; UPP 5 di 42 ; Quinta Sezione Civile ; One to One ;771;763;5;4;191; Lazio ; Centro ;0,99
+ IIsem ; Roma ; Tribunale ; Roma ; UPP 6 di 42 ; Sesta Sezione Civile ; One to One ;3.030;3.028;7;5;606; Lazio ; Centro ;1
+ IIsem ; Roma ; Tribunale ; Roma ; UPP 7 di 42 ; Settima Sezione Civile ; One to One ;9.654;10.295;8;4;2.574; Lazio ; Centro ;1,07
+ IIsem ; Roma ; Tribunale ; Roma ; UPP 8 di 42 ; Ottava Sezione Civile ; One to One ;3.315;3.494;10;17;206; Lazio ; Centro ;1,05
+ IIsem ; Roma ; Tribunale ; Roma ; UPP 9 di 42 ; Nona Sezione Civile ; One to One ;2.985;3.171;6;5;634; Lazio ; Centro ;1,06
+ IIsem ; Roma ; Tribunale ; Tivoli ; UPP 1 di 8 ; Sezione Civile Unica ; One to One ;1.254;1.201;3;4;300; Lazio ; Centro ;0,96
+ IIsem ; Roma ; Tribunale ; Tivoli ; UPP 2 di 8 ; Sezione Lavoro Unica ; One to One ;3.674;3.194;4;5;639; Lazio ; Centro ;0,87
+ IIsem ; Roma ; Tribunale ; Tivoli ; UPP 3 di 8 ; Sezione Civile Unica ; One to One ;3.343;3.203;8;10;320; Lazio ; Centro ;0,96
+ IIsem ; Roma ; Tribunale ; Velletri ; UPP 1 di 1 ; Prima Sezione Civile ; One to One ;838;755;4;10;73; Lazio ; Centro ;0,9
+ IIsem ; Roma ; Tribunale ; Velletri ; UPP 1 di 1 ; Seconda Sezione Civile ; One to One ;948;981;4;10;95; Lazio ; Centro ;1,03
+ IIsem ; Roma ; Tribunale ; Velletri ; UPP 1 di 1 ; Sezione Lavoro Unica ; Rotazione ;4.126;3.203;4;10;310; Lazio ; Centro ;0,78
+ IIsem ; Roma ; Tribunale ; Viterbo ; UPP 1 di 4 ; Sezione Civile Unica ; Mini Pool ;2.280;2.237;10;22;102; Lazio ; Centro ;0,98
+ IIsem ; Roma ; Tribunale ; Viterbo ; UPP 2 di 4 ; Sezione Civile Unica ; Mini Pool ;1.368;1.342;6; -   ; -   ; Lazio ; Centro ;0,98
+ IIsem ; Roma ; Tribunale ; Viterbo ; UPP 3 di 4 ; Sezione Civile Unica ; Mini Pool ;228;224;1; -   ; -   ; Lazio ; Centro ;0,98
+ IIsem ; Salerno ; Corte di Appello ; Salerno ; UPP 1 di 7 ; Prima Sezione Civile ; One to One ;759;718;6;11;65; Campania ; Sud ;0,95
+ IIsem ; Salerno ; Corte di Appello ; Salerno ; UPP 2 di 7 ; Seconda Sezione Civile ; One to One ;408;348;6;12;29; Campania ; Sud ;0,85
+ IIsem ; Salerno ; Corte di Appello ; Salerno ; UPP 3 di 7 ; Sezione Lavoro Unica ; One to One ;342;185;4;7;26; Campania ; Sud ;0,54
+ IIsem ; Salerno ; Tribunale ; Nocera Inferiore ; UPP 1 di 9 ; Prima Sezione Civile ; Mini Pool ;902;1.304;6;11;119; Campania ; Sud ;1,45
+ IIsem ; Salerno ; Tribunale ; Nocera Inferiore ; UPP 2 di 9 ; Prima Sezione Civile ; Mini Pool ;602;870;4;5;174; Campania ; Sud ;1,45
+ IIsem ; Salerno ; Tribunale ; Nocera Inferiore ; UPP 3 di 9 ; Seconda Sezione Civile ; Mini Pool ;540;794;7;9;88; Campania ; Sud ;1,47
+ IIsem ; Salerno ; Tribunale ; Nocera Inferiore ; UPP 4 di 9 ; Seconda Sezione Civile ; Mini Pool ;308;454;4;4;113; Campania ; Sud ;1,47
+ IIsem ; Salerno ; Tribunale ; Salerno ; UPP 2 di 13 ; Prima Sezione Civile ; One to One ;1.191;1.321;5;10;134; Campania ; Sud ;1,11
+ IIsem ; Salerno ; Tribunale ; Salerno ; UPP 2 di 13 ; Seconda Sezione Civile ; One to One ;725;1.116;12;24;47; Campania ; Sud ;1,54
+ IIsem ; Salerno ; Tribunale ; Salerno ; UPP 2 di 13 ; Sezione Lavoro Unica ; One to One ;1.670;1.687;7;14;123; Campania ; Sud ;1,01
+ IIsem ; Salerno ; Tribunale ; Salerno ; UPP 2 di 13 ; Terza Sezione Civile ; One to One ;173;276;4;8;35; Campania ; Sud ;1,59
+ IIsem ; Salerno ; Tribunale ; Salerno ; UPP 4 di 13 ; Sezione Lavoro Unica ; One to One ;1.670;1.687;7;7;241; Campania ; Sud ;1,01
+ IIsem ; Salerno ; Tribunale ; Salerno ; UPP 5 di 13 ; Prima Sezione Civile ; One to One ;1.191;1.321;5;13;102; Campania ; Sud ;1,11
+ IIsem ; Salerno ; Tribunale ; Salerno ; UPP 6 di 13 ; Prima Sezione Civile ; One to One ;715;792;3;2;396; Campania ; Sud ;1,11
+ IIsem ; Salerno ; Tribunale ; Salerno ; UPP 7 di 13 ; Sezione Civile Immigrazione ; Mini Pool ;1.718;567;2;8;71; Campania ; Sud ;0,33
+ IIsem ; Salerno ; Tribunale ; Salerno ; UPP 8 di 13 ; Seconda Sezione Civile ; One to One ;664;1.023;11;23;44; Campania ; Sud ;1,54
+ IIsem ; Salerno ; Tribunale ; Salerno ; UPP 9 di 13 ; Terza Sezione Civile ; One to One ;217;344;5;12;29; Campania ; Sud ;1,59
+ IIsem ; Salerno ; Tribunale ; Vallo della Lucania ; UPP 1 di 1 ; Sezione Civile Unica ; Mini Pool ;1.051;1.219;8;27;45; Basilicata ; Sud ;1,16
+ IIsem ; Sassari ; Corte di Appello ; SASSARI ; UPP 2 di 2 ; Sezione Civile Unica ; One to One ;424;430;6; -   ; -   ; Sardegna ; Isole ;1,01
+ IIsem ; Sassari ; Tribunale ; Nuoro ; UPP 1 di 2 ; Sezione Civile Unica ; One to One ;841;802;5;9;89; Sardegna ; Isole ;0,95
+ IIsem ; Sassari ; Tribunale ; Sassari ; UPP 1 di 9 ; Prima Sezione Civile ; Rotazione ;815;761;3;3;254; Sardegna ; Isole ;0,93
+ IIsem ; Sassari ; Tribunale ; Sassari ; UPP 2 di 9 ; Prima Sezione Civile ; Rotazione ;815;761;3; -   ; -   ; Sardegna ; Isole ;0,93
+ IIsem ; Sassari ; Tribunale ; Sassari ; UPP 3 di 9 ; Prima Sezione Civile ; Rotazione ;815;761;3; -   ; -   ; Sardegna ; Isole ;0,93
+ IIsem ; Sassari ; Tribunale ; Sassari ; UPP 4 di 9 ; Prima Sezione Civile ; One to One ;815;761;3;9;85; Sardegna ; Isole ;0,93
+ IIsem ; Sassari ; Tribunale ; Sassari ; UPP 5 di 9 ; Prima Sezione Civile ; One to One ;1.358;1.268;5;7;181; Sardegna ; Isole ;0,93
+ IIsem ; Taranto ; Corte di Appello ; TARANTO ; UPP 1 di 2 ; Sezione Civile Unica ; Rotazione ;448;489;6; -   ; -   ; Puglia ; Sud ;1,09
+ IIsem ; Taranto ; Tribunale ; Taranto ; UPP 1 di 14 ; Prima Sezione Civile ; Rotazione ;1.352;1.549;5;12;129; Puglia ; Sud ;1,15
+ IIsem ; Taranto ; Tribunale ; Taranto ; UPP 14 di 14 ; Prima Sezione Civile ; One to One ;270;310;1;2;155; Puglia ; Sud ;1,15
+ IIsem ; Taranto ; Tribunale ; Taranto ; UPP 14 di 14 ; Seconda Sezione Civile ; Rotazione ;56;56;1;2;28; Puglia ; Sud ;1
+ IIsem ; Taranto ; Tribunale ; Taranto ; UPP 2 di 14 ; Prima Sezione Civile ; One to One ;1.622;1.859;6;8;232; Puglia ; Sud ;1,15
+ IIsem ; Taranto ; Tribunale ; Taranto ; UPP 4 di 14 ; Seconda Sezione Civile ; One to One ;338;338;6;6;56; Puglia ; Sud ;1
+ IIsem ; Taranto ; Tribunale ; Taranto ; UPP 5 di 14 ; Seconda Sezione Civile ; One to One ;282;281;5;6;47; Puglia ; Sud ;1
+ IIsem ; Taranto ; Tribunale ; Taranto ; UPP 7 di 14 ; Sezione Lavoro Unica ; One to One ;6.091;5.255;8;10;526; Puglia ; Sud ;0,86
+ IIsem ; Torino ; Corte di Appello ; Torino ; UPP 1 di 13 ; Prima Sezione Civile ; One to One ;232;248;4;2;114; Piemonte ; Nord Ovest ;1,07
+ IIsem ; Torino ; Corte di Appello ; Torino ; UPP 1 di 13 ; Quinta Sezione Civile ; One to One ;20;23;7;4;6; Piemonte ; Nord Ovest ;1,15
+ IIsem ; Torino ; Corte di Appello ; Torino ; UPP 2 di 13 ; Seconda Sezione Civile ; Rotazione ;204;152;2;1;152; Piemonte ; Nord Ovest ;0,75
+ IIsem ; Torino ; Corte di Appello ; Torino ; UPP 2 di 13 ; Sezione Civile Agraria ; Rotazione ;2;1;4;2;1; Piemonte ; Nord Ovest ;0,5
+ IIsem ; Torino ; Corte di Appello ; Torino ; UPP 2 di 13 ; Tribunale delle Acque Pubbliche ; Rotazione ;6;2;2;1;2; Piemonte ; Nord Ovest ;0,33
+ IIsem ; Torino ; Corte di Appello ; Torino ; UPP 3 di 13 ; Sesta Sezione Civile ; Assegnazione al fascicolo ;46;44;4;3;15; Piemonte ; Nord Ovest ;0,96
+ IIsem ; Torino ; Corte di Appello ; Torino ; UPP 3 di 13 ; Terza Sezione Civile ; Assegnazione al fascicolo ;174;161;4;3;54; Piemonte ; Nord Ovest ;0,93
+ IIsem ; Torino ; Corte di Appello ; Torino ; UPP 4 di 13 ; Sesta Sezione Civile ; Rotazione ;46;44;4;6;7; Piemonte ; Nord Ovest ;0,96
+ IIsem ; Torino ; Corte di Appello ; Torino ; UPP 5 di 13 ; Sezione Lavoro Unica ; Rotazione ;327;274;6;2;137; Piemonte ; Nord Ovest ;0,84
+ IIsem ; Torino ; Tribunale ; Alessandria ; UPP 3 di 5 ; Sezione Civile Unica ; Assegnazione al fascicolo ;3.546;3.607;13;13;277; Piemonte ; Nord Ovest ;1,02
+ IIsem ; Torino ; Tribunale ; Aosta ; UPP 1 di 1 ; Sezione Civile Agraria ; Assegnazione al fascicolo ; -   ; -   ;1;1; -   ; Valle d'Aosta ; Nord Ovest ; -   
+ IIsem ; Torino ; Tribunale ; Asti ; UPP 1 di 2 ; Sezione Civile Unica ; Mini Pool ;4.042;4.056;12;10;406; Piemonte ; Nord Ovest ;1
+ IIsem ; Torino ; Tribunale ; Biella ; UPP 1 di 1 ; Sezione Civile Unica ; Rotazione ;3.164;3.256;6;8;407; Piemonte ; Nord Ovest ;1,03
+ IIsem ; Torino ; Tribunale ; Cuneo ; UPP 2 di 3 ; Sezione Civile Unica ; Rotazione ;3.673;3.617;8;9;402; Piemonte ; Nord Ovest ;0,98
+ IIsem ; Torino ; Tribunale ; Ivrea ; UPP 1 di 1 ; Sezione Civile Unica ; Mini Pool ;3.055;2.719;10;30;91; Piemonte ; Nord Ovest ;0,89
+ IIsem ; Torino ; Tribunale ; Novara ; UPP 1 di 1 ; Prima Sezione Civile ; Collegio ;3.707;3.440;6;20;172; Piemonte ; Nord Ovest ;0,93
+ IIsem ; Torino ; Tribunale ; Torino ; UPP 1 di 23 ; Tribunale delle Imprese ; One to One ;371;467;8;6;78; Piemonte ; Nord Ovest ;1,26
+ IIsem ; Torino ; Tribunale ; Torino ; UPP 10 di 23 ; Settima Sezione Civile ; One to One ;4.075;1.747;14;21;83; Piemonte ; Nord Ovest ;0,43
+ IIsem ; Torino ; Tribunale ; Torino ; UPP 2 di 23 ; Tribunale delle Imprese ; One to One ;371;467;8;6;78; Piemonte ; Nord Ovest ;1,26
+ IIsem ; Torino ; Tribunale ; Torino ; UPP 3 di 23 ; Seconda Sezione Civile ; One to One ;232;209;6;8;26; Piemonte ; Nord Ovest ;0,9
+ IIsem ; Torino ; Tribunale ; Torino ; UPP 4 di 23 ; Terza Sezione Civile ; One to One ;557;564;5;7;81; Piemonte ; Nord Ovest ;1,01
+ IIsem ; Torino ; Tribunale ; Torino ; UPP 5 di 23 ; Quarta Sezione Civile ; One to One ;391;462;6;4;116; Piemonte ; Nord Ovest ;1,18
+ IIsem ; Torino ; Tribunale ; Torino ; UPP 6 di 23 ; Sezione Lavoro Unica ; One to One ;5.118;4.699;12;10;470; Piemonte ; Nord Ovest ;0,92
+ IIsem ; Torino ; Tribunale ; Torino ; UPP 7 di 23 ; Prima Sezione Civile ; One to One ;70;65;5;4;16; Piemonte ; Nord Ovest ;0,93
+ IIsem ; Torino ; Tribunale ; Torino ; UPP 8 di 23 ; Quinta Sezione Civile ; One to One ;3.733;2.884;7;10;288; Piemonte ; Nord Ovest ;0,77
+ IIsem ; Torino ; Tribunale ; Torino ; UPP 9 di 23 ; Sesta Sezione Civile ; One to One ;3.811;3.712;6;7;530; Piemonte ; Nord Ovest ;0,97
+ IIsem ; Torino ; Tribunale ; Verbania ; UPP 1 di 1 ; Sezione Promiscua Unica ; One to One ;2.268;2.248;2;2;1.124; Piemonte ; Nord Ovest ;0,99
+ IIsem ; Torino ; Tribunale ; Vercelli ; UPP 1 di 1 ; Sezione Civile Unica ; Mini Pool ;3.484;3.524;9;15;235; Piemonte ; Nord Ovest ;1,01
+ IIsem ; Trento ; Corte di Appello ; Trento ; UPP 1 di 1 ; Prima Sezione Civile ; One to One ;61;81;3;3;27; Trentino-Alto Adige ; Nord Est ;1,33
+ IIsem ; Trento ; Corte di Appello ; Trento ; UPP 1 di 1 ; Seconda Sezione Civile ; One to One ;101;108;4;4;27; Trentino-Alto Adige ; Nord Est ;1,07
+ IIsem ; Trento ; Tribunale ; Trento ; UPP 1 di 2 ; Sezione Civile Immigrazione ; Mini Pool ;227;159;4;2;68; Trentino-Alto Adige ; Nord Est ;0,7
+ IIsem ; Trento ; Tribunale ; Trento ; UPP 1 di 2 ; Sezione Civile Unica ; One to One ;4.343;4.334;13;8;567; Trentino-Alto Adige ; Nord Est ;1
+ IIsem ; Trieste ; Corte di Appello ; Trieste ; UPP 1 di 1 ; Prima Sezione Civile ; One to One ;113;156;4;13;12; Friuli ; Nord Est ;1,38
+ IIsem ; Trieste ; Corte di Appello ; Trieste ; UPP 1 di 1 ; Seconda Sezione Civile ; One to One ;93;91;4;13;7; Friuli ; Nord Est ;0,98
+ IIsem ; Trieste ; Tribunale ; Pordenone ; UPP 1 di 2 ; Sezione Civile Unica ; One to One ;4.443;4.246;7;9;472; Friuli ; Nord Est ;0,96
+ IIsem ; Trieste ; Tribunale ; Trieste ; UPP 1 di 7 ; Sezione Civile Unica ; One to One ;342;262;3;2;131; Friuli ; Nord Est ;0,77
+ IIsem ; Trieste ; Tribunale ; Trieste ; UPP 2 di 7 ; Sezione Civile Unica ; One to One ;569;436;5;4;109; Friuli ; Nord Est ;0,77
+ IIsem ; Trieste ; Tribunale ; Trieste ; UPP 3 di 7 ; Sezione Civile Unica ; One to One ;569;436;5;7;62; Friuli ; Nord Est ;0,77
+ IIsem ; Trieste ; Tribunale ; Trieste ; UPP 4 di 7 ; Sezione Civile Unica ; One to One ;1.252;959;11;4;240; Friuli ; Nord Est ;0,77
+ IIsem ; Trieste ; Tribunale ; Udine ; UPP 1 di 4 ; Prima Sezione Civile ; One to One ;1.245;1.231;7;6;205; Friuli ; Nord Est ;0,99
+ IIsem ; Trieste ; Tribunale ; Udine ; UPP 2 di 4 ; Seconda Sezione Civile ; One to One ;1.257;1.218;6;5;244; Friuli ; Nord Est ;0,97
+ IIsem ; Venezia ; Corte di Appello ; Venezia ; UPP 1 di 1 ; Prima Sezione Civile ; Assegnazione al fascicolo ;448;513;6;20;26; Veneto ; Nord Est ;1,15
+ IIsem ; Venezia ; Corte di Appello ; Venezia ; UPP 1 di 1 ; Quarta Sezione Civile ; Assegnazione al fascicolo ;253;266;3;10;27; Veneto ; Nord Est ;1,05
+ IIsem ; Venezia ; Corte di Appello ; Venezia ; UPP 1 di 1 ; Seconda Sezione Civile ; Assegnazione al fascicolo ;299;259;3;10;26; Veneto ; Nord Est ;0,87
+ IIsem ; Venezia ; Corte di Appello ; Venezia ; UPP 1 di 1 ; Sezione Lavoro Unica ; Assegnazione al fascicolo ;306;520;5;17;31; Veneto ; Nord Est ;1,7
+ IIsem ; Venezia ; Corte di Appello ; Venezia ; UPP 1 di 1 ; Terza Sezione Civile ; Assegnazione al fascicolo ;321;410;6;20;21; Veneto ; Nord Est ;1,28
+ IIsem ; Venezia ; Tribunale ; Belluno ; UPP 1 di 1 ; Sezione Civile Unica ; One to One ;1.771;1.658;3;9;184; Veneto ; Nord Est ;0,94
+ IIsem ; Venezia ; Tribunale ; Padova ; UPP 1 di 6 ; Prima Sezione Civile ; One to One ;1.246;1.343;6;8;168; Veneto ; Nord Est ;1,08
+ IIsem ; Venezia ; Tribunale ; Padova ; UPP 2 di 6 ; Prima Sezione Civile ; One to One ;623;672;3;3;224; Veneto ; Nord Est ;1,08
+ IIsem ; Venezia ; Tribunale ; Padova ; UPP 3 di 6 ; Prima Sezione Civile ; One to One ;831;895;4;3;298; Veneto ; Nord Est ;1,08
+ IIsem ; Venezia ; Tribunale ; Padova ; UPP 4 di 6 ; Seconda Sezione Civile ; One to One ;1.970;1.961;8;7;280; Veneto ; Nord Est ;1
+ IIsem ; Venezia ; Tribunale ; Rovigo ; UPP 1 di 4 ; Prima Sezione Civile ; Mini Pool ;2.863;2.873;9;7;410; Veneto ; Nord Est ;1
+ IIsem ; Venezia ; Tribunale ; Rovigo ; UPP 2 di 4 ; Prima Sezione Civile ; Assegnazione al fascicolo ;954;958;3; -   ; -   ; Veneto ; Nord Est ;1
+ IIsem ; Venezia ; Tribunale ; Treviso ; UPP 1 di 5 ; Prima Sezione Civile ; One to One ;2.061;2.189;8;10;219; Veneto ; Nord Est ;1,06
+ IIsem ; Venezia ; Tribunale ; Treviso ; UPP 2 di 5 ; Seconda Sezione Civile ; Mini Pool ;1.319;1.180;7;7;169; Veneto ; Nord Est ;0,89
+ IIsem ; Venezia ; Tribunale ; Treviso ; UPP 3 di 5 ; Terza Sezione Civile ; Mini Pool ;631;664;6;4;166; Veneto ; Nord Est ;1,05
+ IIsem ; Venezia ; Tribunale ; Venezia ; UPP 11 di 12 ; Sezione Lavoro Unica ; Mini Pool ;468;443;4;1;443; Veneto ; Nord Est ;0,95
+ IIsem ; Venezia ; Tribunale ; Venezia ; UPP 2 di 12 ; Sezione Civile Immigrazione ; Mini Pool ;605;121;1;2;81; Veneto ; Nord Est ;0,2
+ IIsem ; Venezia ; Tribunale ; Venezia ; UPP 2 di 12 ; Volontaria Giurisdizione competenza Presidenziale ; Mini Pool ;20;22;1;2;15; Veneto ; Nord Est ;1,1
+ IIsem ; Venezia ; Tribunale ; Venezia ; UPP 3 di 12 ; Prima Sezione Civile ; Mini Pool ;404;449;10;1;719; Veneto ; Nord Est ;1,11
+ IIsem ; Venezia ; Tribunale ; Venezia ; UPP 3 di 12 ; Seconda Sezione Civile ; Mini Pool ;602;566;7;0;1.293; Veneto ; Nord Est ;0,94
+ IIsem ; Venezia ; Tribunale ; Venezia ; UPP 3 di 12 ; Sezione Civile Immigrazione ; Mini Pool ;3.628;725;6;0;1.934; Veneto ; Nord Est ;0,2
+ IIsem ; Venezia ; Tribunale ; Venezia ; UPP 3 di 12 ; Sezione Lavoro Unica ; Mini Pool ;468;443;4;0;1.773; Veneto ; Nord Est ;0,95
+ IIsem ; Venezia ; Tribunale ; Venezia ; UPP 3 di 12 ; Tribunale delle Imprese ; Mini Pool ;86;89;5;0;285; Veneto ; Nord Est ;1,04
+ IIsem ; Venezia ; Tribunale ; Venezia ; UPP 4 di 12 ; Prima Sezione Civile ; Mini Pool ;404;449;10;2;240; Veneto ; Nord Est ;1,11
+ IIsem ; Venezia ; Tribunale ; Venezia ; UPP 4 di 12 ; Seconda Sezione Civile ; Mini Pool ;602;566;7;1;431; Veneto ; Nord Est ;0,94
+ IIsem ; Venezia ; Tribunale ; Venezia ; UPP 4 di 12 ; Sezione Civile Immigrazione ; Mini Pool ;3.628;725;6;1;645; Veneto ; Nord Est ;0,2
+ IIsem ; Venezia ; Tribunale ; Venezia ; UPP 4 di 12 ; Sezione Lavoro Unica ; Mini Pool ;468;443;4;1;591; Veneto ; Nord Est ;0,95
+ IIsem ; Venezia ; Tribunale ; Venezia ; UPP 4 di 12 ; Tribunale delle Imprese ; Mini Pool ;86;89;5;1;95; Veneto ; Nord Est ;1,04
+ IIsem ; Venezia ; Tribunale ; Venezia ; UPP 5 di 12 ; Sezione Civile Immigrazione ; Mini Pool ;3.628;725;6;13;56; Veneto ; Nord Est ;0,2
+ IIsem ; Venezia ; Tribunale ; Venezia ; UPP 6 di 12 ; Prima Sezione Civile ; One to One ;404;449;10;13;35; Veneto ; Nord Est ;1,11
+ IIsem ; Venezia ; Tribunale ; Venezia ; UPP 7 di 12 ; Tribunale delle Imprese ; Mini Pool ;86;89;5;4;22; Veneto ; Nord Est ;1,04
+ IIsem ; Venezia ; Tribunale ; Venezia ; UPP 8 di 12 ; Seconda Sezione Civile ; One to One ;774;727;9;15;48; Veneto ; Nord Est ;0,94
+ IIsem ; Venezia ; Tribunale ; Verona ; UPP 1 di 6 ; Prima Sezione Civile ; One to One ;2.349;2.759;6;7;394; Veneto ; Nord Est ;1,17
+ IIsem ; Venezia ; Tribunale ; Verona ; UPP 2 di 6 ; Seconda Sezione Civile ; Mini Pool ;2.767;2.600;7;3;867; Veneto ; Nord Est ;0,94
+ IIsem ; Venezia ; Tribunale ; Verona ; UPP 3 di 6 ; Terza Sezione Civile ; One to One ;1.812;1.888;4;4;472; Veneto ; Nord Est ;1,04
+ IIsem ; Venezia ; Tribunale ; Vicenza ; UPP 1 di 7 ; Prima Sezione Civile ; One to One ;1.310;1.290;5;6;215; Veneto ; Nord Est ;0,98
+ IIsem ; Venezia ; Tribunale ; Vicenza ; UPP 2 di 7 ; Prima Sezione Civile ; Rotazione ;786;774;3;3;258; Veneto ; Nord Est ;0,98
+ IIsem ; Venezia ; Tribunale ; Vicenza ; UPP 3 di 7 ; Prima Sezione Civile ; Mini Pool ;524;516;2;4;129; Veneto ; Nord Est ;0,98
+ IIsem ; Venezia ; Tribunale ; Vicenza ; UPP 4 di 7 ; Seconda Sezione Civile ; Mini Pool ;2.443;2.305;6;6;384; Veneto ; Nord Est ;0,94
+ IIsem ; Venezia ; Tribunale ; Vicenza ; UPP 5 di 7 ; Seconda Sezione Civile ; Mini Pool ;1.222;1.153;3;8;144; Veneto ; Nord Est ;0,94
